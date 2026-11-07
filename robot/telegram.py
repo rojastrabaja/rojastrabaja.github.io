@@ -9,7 +9,7 @@ BASE = os.path.join(os.path.dirname(__file__), "..")
 OFERTAS = os.path.join(BASE, "data", "ofertas.json")
 ENVIADAS = os.path.join(BASE, "data", "telegram.json")
 CONFIG = os.path.join(BASE, "config.js")
-SITIO = "https:/" + "/marianojadur0-boop.github" + ".io/Rojas-Trabaja/"
+SITIO = "https:/" + "/rojastrabaja.github" + ".io/"
 MAX_POR_ENVIO = 25
 ZONA = ["rojas", "pergamino", "junin", "salto", "colon", "arrecifes", "chacabuco", "rafael obligado",
         "carabelas", "los indios", "hunter", "la beba", "sol de mayo"]
