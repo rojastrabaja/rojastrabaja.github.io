@@ -1,10 +1,9 @@
-# Corre solo todos los días a las 6:00 (hora de Argentina) y guarda las ofertas nuevas.
 name: Actualizar ofertas
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 6,13,19 * * *"
       timezone: "America/Argentina/Buenos_Aires"
-  workflow_dispatch: {}   # botón para correrlo a mano si hace falta
+  workflow_dispatch: {}
 permissions:
   contents: write
 jobs:
@@ -19,10 +18,16 @@ jobs:
           FORM_CSV_URL: ${{ secrets.FORM_CSV_URL }}
           JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
         run: python robot/actualizar.py
+      - name: Avisar en Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: ${{ secrets.TELEGRAM_CANAL }}
+        run: python robot/telegram.py
       - name: Guardar cambios
         run: |
           git config user.name "robot-rojas-trabaja"
           git config user.email "robot@users.noreply.github.com"
-          git add data/ofertas.json
+          touch data/telegram.json
+          git add data/ofertas.json data/telegram.json
           git commit -m "Ofertas actualizadas $(date +%F)" || echo "Sin cambios"
           git push
