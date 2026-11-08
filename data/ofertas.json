@@ -1,19 +1,43 @@
 {
- "actualizado": "2026-11-08T16:23:53.168807+00:00",
+ "actualizado": "2026-11-08T22:23:30.604067+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 144
+  "Get on Board": 145
  },
  "resumen": {
-  "encontradas": 204,
-  "vencidas_quitadas": 64,
-  "duplicadas_quitadas": 27,
-  "publicadas": 113
+  "encontradas": 205,
+  "vencidas_quitadas": 62,
+  "duplicadas_quitadas": 29,
+  "publicadas": 114
  },
  "ofertas": [
+  {
+   "titulo": "Python ML & Optimization Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-08T22:20:09+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/python-ml-optimization-engineer-improving-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Python:  Development skills with experience implementing, modifying, and troubleshooting production-grade ML or mathematical optimization solutions.   Optimization / Solvers:  Hands-on optimization and solver experience.   Machine Learning:  Experience working with machine learning platforms.  Ex",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Full-Stack Software Engineer (React + Python)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-08T19:28:26+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/full-stack-software-engineer-react-python-improving-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Strong Python application development experience.  Strong React experience and ability to work within an existing React front end.  Experience integrating Python services/algorithms into React-based applications, including APIs and backend/frontend integration.  Comfortable working in and modifyin",
+   "primer_empleo": false
+  },
   {
    "titulo": "Appointment Setter",
    "empresa": "Pavago",
@@ -1356,18 +1380,6 @@
    "url": "https://www.getonbrd.com/jobs/mobile-user-acquisition-manager-app-campaigns-idt-corporation-remote-bd33",
    "rubro": "Tecnología",
    "descripcion": "3+ years managing paid campaigns in a UA or growth role.  B2C App acquisition experience needed.  Hands-on experience with paid social platforms such as Meta, TikTok, and Snapchat.  Strong analytical mindset with the ability to analyze performance data and turn it into clear optimization decisions",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Responsable de Infraestructura y Redes",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Argentina",
-   "modalidad": "Presencial",
-   "fecha": "2026-11-01T16:51:04+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/responsable-de-infraestructura-y-redes-bridge-partners-buenos-aires",
-   "rubro": "Tecnología",
-   "descripcion": "Formación en Ingeniería o Licenciatura en Sistemas, Informática o carreras afines.   +4 años de experiencia en infraestructura, redes o seguridad , incluyendo la coordinación de técnicos o soporte.   Conocimiento en el uso de IA para desarrollo/automatización  ( livecoding  con herramientas como C",
    "primer_empleo": false
   }
  ]
