@@ -1,19 +1,175 @@
 {
- "actualizado": "2026-11-09T09:46:54.194057+00:00",
+ "actualizado": "2026-11-09T16:51:58.765924+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 145
+  "Get on Board": 143
  },
  "resumen": {
-  "encontradas": 205,
-  "vencidas_quitadas": 62,
-  "duplicadas_quitadas": 29,
-  "publicadas": 114
+  "encontradas": 203,
+  "vencidas_quitadas": 68,
+  "duplicadas_quitadas": 27,
+  "publicadas": 108
  },
  "ofertas": [
+  {
+   "titulo": "Web App Full-Stack Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T16:30:11+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/web-app-full-stack-engineer-niuro-remote-03c6",
+   "rubro": "Tecnología",
+   "descripcion": "Requirements    Senior-level engineer with 5+ years of professional software development experience.  Proven experience developing and maintaining production web applications.  Strong backend development experience.  Hands-on experience developing AI features.  Practical experience working with la",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Builder",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T14:36:34+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-04e2",
+   "rubro": "Tecnología",
+   "descripcion": "3 o más años de experiencia como Product Builder o Software Engineer.    Al menos 2 años desarrollando en Ruby on Rails.    Experiencia trabajando en startups.    Experiencia participando activamente en decisiones del producto.",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Legal Intake Specialist (Argentina | Remote)",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T14:32:00+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/legal-intake-specialist-argentina-remote?utm_source=api",
+   "descripcion": "Legal Intake Specialist (Remote)Schedule: Full-Time | Monday - Friday, 9:00 AM - 5:00 PM EST Apply here:Position OverviewThe Legal Intake Specialist plays a pivotal role as the first step in the healthcare medical records retrieval process.",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Combat Designer [CA]",
+   "empresa": "HoYoverse",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T14:12:24+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/mihayo/jobs/senior-combat-designer-ca?utm_source=api",
+   "descripcion": "As a Senior Combat Designer, you’ll focus on creating mechanics, scenarios and characters that contribute to deep yet accessible combat experiences for the player.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Dental Scheduling Virtual Assistant | LATAM",
+   "empresa": "HireHawk",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T13:48:31+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hirehawk/jobs/dental-scheduling-virtual-assistant-latam?utm_source=api",
+   "descripcion": "All candidates from LATAM are welcome to apply!!!",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "1225 - 406SLF | Territory Account Executive",
+   "empresa": "TalentCross",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T12:52:23+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/talentcross/jobs/1225-406slf-territory-account-executive?utm_source=api",
+   "descripcion": "TERRITORY ACCOUNT EXECUTIVE Location: Buenos Aires, AR Department: Sales Employment Type: Full-Time About the Role:As a Territory Account Executive, you will be responsible for managing a dedicated territory within the Growth Business sector (51-300 employees), overseeing the entire sales cycle from",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Medical Document Retrieval Specialist (Argentina | Remote)",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T12:38:44+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/medical-document-retrieval-specialist-argentina-remote?utm_source=api",
+   "descripcion": "Medical Document Retrieval Specialist (Remote) Schedule: Full-Time | Monday - Friday, 9:00 AM - 5:00 PM ESTApply here:OverviewThe Medical Document Retrieval Specialist plays a pivotal role in the healthcare medical records retrieval process.",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior DevOps Engineer",
+   "empresa": "NextLink Labs",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T12:33:32+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nextlink-labs/jobs/senior-devops-engineer?utm_source=api",
+   "descripcion": "About NextLink LabsNextLink Labs is a technical consulting firm specializing in helping companies build, scale, and secure their technology through custom software development, DevOps, and application security services.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Customer Service Representative | Argentina | Remote",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T11:07:36+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/customer-service-representative-argentina-remote?utm_source=api",
+   "descripcion": "Customer Service Representative (Self-Serve SaaS)Apply here: Are you passionate about helping users succeed with innovative software?",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Remote Customer Support Associate (Work From Home | Flexible Schedule)",
+   "empresa": "Sight Sea Travel Company",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T10:31:56+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/sight-sea-travel-company/jobs/remote-customer-support-associate-work-from-home-flexible-schedule?utm_source=api",
+   "descripcion": "Job Description:We are currently seeking customer-focused and detail-oriented individuals to join our team as Remote Customer Support Associates.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Work from Home Booking Administrator",
+   "empresa": "Sight Sea Travel Company",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T10:02:58+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/sight-sea-travel-company/jobs/work-from-home-booking-administrator?utm_source=api",
+   "descripcion": "Job Description:We are currently seeking organized and detail-oriented individuals to join our team as Work From Home Booking Administrators.",
+   "rubro": "Administración",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Localization Content Manager, Spanish (Latin America and Spain)",
+   "empresa": "Maleda Tech",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T09:53:50+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/maleda-tech/jobs/localization-content-manager-spanish-latin-america-and-spain?utm_source=api",
+   "descripcion": "About the RoleWe are looking for an experienced Localization Content Manager to lead the Spanish content strategy for Latin America and Spain, and the content pipelines for teams across a widely used DevOps platform.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Human Resources Assistant (Argentina)",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T09:47:05+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/human-resources-assistant-argentina?utm_source=api",
+   "descripcion": "HR Assistant (100% Remote) Support our HR Manager in payroll, HR systems, communications, and reporting ﻿﻿Please apply through this application link: ﻿ About the RoleWe are seeking a proactive, detail-oriented HR Assistant to support our HR Manager in day-to-day HR operations, including payroll admi",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
   {
    "titulo": "Senior Deployed AI Engineer (Gemini) (PCS920)",
    "empresa": "Hire Overseas",
@@ -435,66 +591,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "HR Director (BBS929)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:28:02+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/hr-director-bbs929?utm_source=api",
-   "descripcion": "💼 Senior HR Director 🌍 Open to Latin America: This role is open to candidates based in Latin America.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Internal Communication Analyst",
-   "empresa": "World Business Lenders",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:18:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/world-business-lenders/jobs/internal-communication-analyst?utm_source=api",
-   "descripcion": "About World Business Lenders (www. wbl. com) World Business Lenders (WBL) provides general purpose short-term real estate collateralized commercial loans to a broad customer base comprised of small and medium sized businesses throughout the United States that lack access to traditional funding.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Work from Home Travel Coordinator",
-   "empresa": "Sight Sea Travel Company",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:13:41+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/sight-sea-travel-company/jobs/work-from-home-travel-coordinator?utm_source=api",
-   "descripcion": "We are seeking an organized and client-focused Work From Home Travel Coordinator to assist clients with researching destinations, coordinating travel details, and organizing personalized travel plans.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Account Manager - E-commerce Marketing Agency",
-   "empresa": "Hustler Marketing",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:11:34+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hustler-marketing/jobs/account-manager-e-commerce-marketing-agency-3664227817?utm_source=api",
-   "descripcion": "The main purpose of the Account Manager is to manage their assigned clients and their stores by planning, briefing, monitoring, and executing marketing campaigns aimed at driving conversions and sales.",
-   "rubro": "Administración",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Civil Litigation Paralegal | LATAM",
-   "empresa": "HireHawk",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T22:42:14+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hirehawk/jobs/civil-litigation-paralegal-latam?utm_source=api",
-   "descripcion": "All candidates from LATAM are welcome to apply!!!",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Python ML & Optimization Engineer",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -507,102 +603,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Technical Logistics Coordinator",
-   "empresa": "Parexel",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T21:50:30+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/parexel/jobs/technical-logistics-coordinator?utm_source=api",
-   "descripcion": "When our values align, there's no limit to what we can achieve.",
-   "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sales & Brand Partnerships_Films / OTT / TV – Argentina",
-   "empresa": "SkyBlue Media",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T21:46:45+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/skyblue-media/jobs/sales-brand-partnerships_films-ott-tv-argentina?utm_source=api",
-   "descripcion": "This is a Work from Home Opportunity based inBuenos Aires.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Marketing Associate - Remote ( Nearshore / Offshore Preferred )",
-   "empresa": "GSD Staffing",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T21:30:09+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/gsd-staffing/jobs/marketing-associate-remote-nearshore-offshore-preferred?utm_source=api",
-   "descripcion": "Marketing AssociateLocation: Full-Time Remote Salary: $1,500 USD per month Schedule: 44 hours per week, Monday–Friday About the RoleWe’re looking for a creative, proactive, and organized Marketing Associate to support our marketing and business development efforts.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Business Analyst",
-   "empresa": "Helpware",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T20:17:48+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/helpware/jobs/senior-business-analyst?utm_source=api",
-   "descripcion": "Our client is a US-based company specializing in advanced solutions for health plans.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Travel & Lifestyle Assistant",
-   "empresa": "Sight Sea Travel Company",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T19:53:46+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/sight-sea-travel-company/jobs/travel-lifestyle-assistant?utm_source=api",
-   "descripcion": "Job Description:We are seeking a proactive and detail-oriented Travel & Lifestyle Assistant to support clients by coordinating travel plans, managing scheduling requests, and assisting with lifestyle-related services.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Help Desk Specialist- IT Support (LATAM only)",
-   "empresa": "My VA Support, Inc.",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T19:52:56+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/my-va-support-inc/jobs/help-desk-specialist-it-support-latam-only?utm_source=api",
-   "descripcion": "This is a remote position. Only LATAM-based candidates (bilingual in Spanish and English)Are you atech-savvy problem solverwho loves troubleshooting and keeping systems running smoothly?",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Fullstack JS Developer",
-   "empresa": "Blue Coding",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T19:52:47+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/blue-coding/jobs/fullstack-js-developer?utm_source=api",
-   "descripcion": "Category: IT Services Location: Fullstack JS DeveloperFull-time|Remote, anywhere in Latam• Do you want to earn a salary in USD?",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "E-Commerce and Wholesale Operations Specialist (AI-Forward) (BBS923)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T19:48:40+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/e-commerce-and-wholesale-operations-specialist-ai-forward-bbs923?utm_source=api",
-   "descripcion": "💼 E-Commerce and Wholesale Operations Specialist (AI-Forward) 🌎 Open to Latin America: This role is open to candidates based in Latin America.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Full-Stack Software Engineer (React + Python)",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -612,30 +612,6 @@
    "url": "https://www.getonbrd.com/jobs/full-stack-software-engineer-react-python-improving-remote",
    "rubro": "Tecnología",
    "descripcion": "Strong Python application development experience.  Strong React experience and ability to work within an existing React front end.  Experience integrating Python services/algorithms into React-based applications, including APIs and backend/frontend integration.  Comfortable working in and modifyin",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Director of Client Strategy | Remote | LATAM Only | 88151",
-   "empresa": "Remote Talent LATAM",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T18:38:07+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/director-of-client-strategy-remote-latam-only-88151?utm_source=api",
-   "descripcion": "About UsAt Remote Talent LATAM, we connect top Latin American talent with leading U.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "V108 - Medical Records and Case Coordinator",
-   "empresa": "Job Duck",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T18:11:33+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/job-duck/jobs/v108-medical-records-and-case-coordinator?utm_source=api",
-   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
-   "rubro": "Salud",
    "primer_empleo": false
   },
   {
@@ -1239,18 +1215,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Especialista Desarrollador Front-end",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T14:54:06+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/especialista-desarrollador-frontend-3it-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Conocimientos de desarrollo móvil y web.  Manejo de Power BI, Datalake y procesos ETL.  Uso de frameworks JavaScript MVC, como AngularJS, Backbone u otros.  De 3 a 5 años de experiencia reciente con las tecnologías solicitadas en el sector bancario o financiero.  Formación en Ingeniería Civil Info",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Back-end Senior Java – Sagas y GCP",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -1344,42 +1308,6 @@
    "url": "https://www.getonbrd.com/jobs/ux-ui-designer-pyxl-remote-5bf7",
    "rubro": "Tecnología",
    "descripcion": "Excellent spoken and written English, since you’ll collaborate directly with US-based clients and teams  Clear communication and reliable availability during US business hours (EST or CST)  Mandatory experience designing eCommerce, D2C and application experiences  Experience with consumer goods br",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Product Builder",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T16:09:25+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-3495",
-   "rubro": "Tecnología",
-   "descripcion": "Entre 1 y 3 años programando con Ruby on Rails como base. Se consideran recién egresados/as que puedan mostrar proyectos reales.  Titulado de Ingeniería Civil o carreras afines.  Ruby y Ruby on Rails a nivel sólido.  GraphQL a nivel sólido.  Disposición demostrable a aprender y trabajar en otros l",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Solutions Architect",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T15:59:13+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/solutions-architect-interfell-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Minimum of 3 years of hands-on experience as a Project Manager / Solutions Architect or in a similar role.  At least 2 years of experience working in a startup environment, developing processes, and procedures, and building out teams.   Minimum of 1 year of hands-on experience with monday.com.   P",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Marketing User Acquisition Manager (App Campaigns)",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T13:04:00+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/mobile-user-acquisition-manager-app-campaigns-idt-corporation-remote-bd33",
-   "rubro": "Tecnología",
-   "descripcion": "3+ years managing paid campaigns in a UA or growth role.  B2C App acquisition experience needed.  Hands-on experience with paid social platforms such as Meta, TikTok, and Snapchat.  Strong analytical mindset with the ability to analyze performance data and turn it into clear optimization decisions",
    "primer_empleo": false
   }
  ]
