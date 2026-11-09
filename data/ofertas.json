@@ -1,19 +1,139 @@
 {
- "actualizado": "2026-11-09T16:51:58.765924+00:00",
+ "actualizado": "2026-11-09T22:33:35.635090+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 143
+  "Get on Board": 140
  },
  "resumen": {
-  "encontradas": 203,
+  "encontradas": 200,
   "vencidas_quitadas": 68,
-  "duplicadas_quitadas": 27,
-  "publicadas": 108
+  "duplicadas_quitadas": 30,
+  "publicadas": 102
  },
  "ofertas": [
+  {
+   "titulo": "Senior .NET Back-end Engineer (Modern Platform)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T22:32:56+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-net-backend-engineer-modern-platform-niuro-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Senior backend engineer with 8+ years of software development experience, including 4+ recent years with modern C#/.NET.  C1 English level or higher.  Strong practical knowledge of async/await, dependency injection, concurrency, background workers, and .NET troubleshooting.  Advanced Entity Framew",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior .NET Back-end Developer (Legacy Platform)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T22:32:13+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-net-backend-developer-legacy-platform-niuro-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Senior backend developer with 5+ years of recent C# and .NET experience, including hands-on .NET Framework experience.  C1 English level or higher, with confidence in daily spoken communication.  Strong experience with Dapper and Entity Framework, including sound judgment on when to use each.  Str",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Payroll & Administration Specialist",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T22:32:04+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/payroll-administration-specialist-interfell-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Nómina española / Procesamiento de nóminas.  Administración de la Seguridad Social.  Conocimientos de Seguridad Social.  Procesamiento de nóminas.  Gestión de altas y bajas de empleados.  Contratos laborales.  Incapacidad temporal (IT).  Gestión de profesionales autónomos.",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Payload CMS Developer (Short Term Project)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T22:32:00+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-payload-cms-developer-short-term-project-niuro-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Senior software developer with 5+ years of experience.  Proven production experience with Payload CMS, including collections, fields, globals, access control, hooks, and custom admin components.  Strong Node.js and TypeScript experience, plus solid React and Next.js experience.  Advanced knowledge",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Gestor/a de Catálogo (francés)",
+   "empresa": "We are Tims",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T21:41:04+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/we-are-tims/jobs/gestor-a-de-catalogo-frances?utm_source=api",
+   "descripcion": "Gestor/a de Catálogo (francés)¿De qué se trata el cargo?",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Customer Success & Operations Manager (Argentina)",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T21:22:12+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/customer-success-operations-manager-argentina?utm_source=api",
+   "descripcion": "Apply here:﻿About UsWe are a growing startup helping fast-growing businesses scale through high-quality offshore talent.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Recruiter (Argentina | Remote | Full-Time)",
+   "empresa": "OperationsArmy",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T20:35:29+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/operationsarmy/jobs/recruiter-argentina-remote-full-time?utm_source=api",
+   "descripcion": "High-Volume Recruiter (Startup Experience Preferred) Location: Remote | Type: Full-Time | Team: Ops & Talent Apply directly here: The RoleWere looking for a scrappy, high-velocity recruiter who thrives in fast-paced, zero-red-tape environments.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Staff Data Scientist / Machine Learning Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T19:09:09+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/staff-data-scientist-machine-learning-engineer-andersen-lab-remote",
+   "rubro": "Tecnología",
+   "descripcion": "- Hands-on experience in Machine Learning Engineering using Python, including developing, deploying, and maintaining production-grade ML models, for 5+ years.   - Proven experience with gradient boosting algorithms (XGBoost, CatBoost, or LightGBM), including hyperparameter tuning, feature importanc",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Builder",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T17:50:55+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-3495",
+   "rubro": "Tecnología",
+   "descripcion": "Entre 1 y 3 años programando con Ruby on Rails como base. Se consideran recién egresados/as que puedan mostrar proyectos reales.  Titulado de Ingeniería Civil o carreras afines.  Ruby y Ruby on Rails a nivel sólido.  GraphQL a nivel sólido.  Disposición demostrable a aprender y trabajar en otros l",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Creative Director",
+   "empresa": "ScaleJet",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-09T17:20:59+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/scalejet/jobs/creative-director-8675328920?utm_source=api",
+   "descripcion": "Our client, a fast-growing eCommerce company in the Health Care space is seeking a commercially minded Creative Director to lead the creative function across our ecommerce business.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Web App Full-Stack Engineer",
    "empresa": "Empresa en Get on Board",
@@ -24,18 +144,6 @@
    "url": "https://www.getonbrd.com/jobs/web-app-full-stack-engineer-niuro-remote-03c6",
    "rubro": "Tecnología",
    "descripcion": "Requirements    Senior-level engineer with 5+ years of professional software development experience.  Proven experience developing and maintaining production web applications.  Strong backend development experience.  Hands-on experience developing AI features.  Practical experience working with la",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Product Builder",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T14:36:34+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-04e2",
-   "rubro": "Tecnología",
-   "descripcion": "3 o más años de experiencia como Product Builder o Software Engineer.    Al menos 2 años desarrollando en Ruby on Rails.    Experiencia trabajando en startups.    Experiencia participando activamente en decisiones del producto.",
    "primer_empleo": false
   },
   {
@@ -456,138 +564,6 @@
    "url": "https://himalayas.app/companies/wow-remote-teams/jobs/operations-manager?utm_source=api",
    "descripcion": "This is a remote position. Our client is looking for an Operations Managerto lead client relationships, talent operations, and internal team performance while helping shape the next stage of their growth.",
    "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Social Media Manager",
-   "empresa": "BlackBox Strategies",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T01:00:08+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/blackbox-strategies/jobs/social-media-manager-3389340449?utm_source=api",
-   "descripcion": "Social Media ManagerAbout BlackBox StrategiesBlackBox Strategies is a revenue execution agency that leverages brand building, storytelling and digital presence to deliver more revenue on behalf of our clients.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sales Development Representative (BBS937)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:59:13+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/sales-development-representative-bbs937?utm_source=api",
-   "descripcion": "💼 Sales Development Representative 🌎 Open to Latin America: This role is open to candidates based in Latin America.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Recruiter, Agency",
-   "empresa": "Lavendo",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:54:28+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/lavendo/jobs/recruiter-agency?utm_source=api",
-   "descripcion": "Lavendo partners with startups and high‑growth companies to help them hire top‑tier sales, GTM, and technical talent.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sourcing and Recruitment Assistant",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:53:18+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/sourcing-and-recruitment-assistant-4412440649?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Personal Executive Assistant (BBS918)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:44:56+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/personal-executive-assistant-bbs918?utm_source=api",
-   "descripcion": "💼 Personal Executive Assistant 🌍 Open to Latin America: This role is open to candidates based in Latin America.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Freelance Recruiters (Worldwide)",
-   "empresa": "David Kennedy Recruitment",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:30:09+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/david-kennedy-recruitment/jobs/freelance-recruiters-worldwide?utm_source=api",
-   "descripcion": "Hey there!  David Kennedy Recruitment is on the lookout for an amazing Freelance Recruitment Partner to join our team.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "V108 - Pre-Suit Case Manager",
-   "empresa": "Job Duck",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:29:55+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/job-duck/jobs/v108-pre-suit-case-manager?utm_source=api",
-   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "(English C1) Customer Support Consultant (Remote, LATAM)",
-   "empresa": "SupportYourApp",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T00:13:30+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/supportyourapp/jobs/english-c1-customer-support-consultant-remote-latam?utm_source=api",
-   "descripcion": "Who are we?  SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Customer Service & Retention Specialist",
-   "empresa": "Community Sports Partners",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:57:06+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/community-sports-partners/jobs/customer-service-retention-specialist?utm_source=api",
-   "descripcion": "Remote — Latin America | Full-time | US$1,000 per month plus retention bonuses About the roleCommunity Sports Partners is looking for a customer-focused specialist to help customers enjoy our sports programs, resolve problems and keep coming back.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Remote Chief of Staff",
-   "empresa": "Pearl Talent",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:52:02+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pearl-talent/jobs/remote-chief-of-staff?utm_source=api",
-   "descripcion": "Work From Anywhere in LATAMWork Schedule: EST | Full-time with US Eastern business hours overlap, including early mornings and occasional weekend availability About Pearl TalentPearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Operations Manager (BBS917)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-08T23:30:48+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/operations-manager-bbs917?utm_source=api",
-   "descripcion": "💼 Operations Manager 🌎 Open to Latin America: This role is open to candidates based in Latin America.",
-   "rubro": "Transporte",
    "primer_empleo": false
   },
   {
@@ -1260,54 +1236,6 @@
    "url": "https://www.getonbrd.com/jobs/digital-media-analyst-interfell-remote",
    "rubro": "Tecnología",
    "descripcion": "2+ years of experience as a Media Analyst, Marketing Analyst, or similar role, ideally in an agency environment.  Advanced proficiency in Microsoft Excel and Google Sheets (pivot tables and lookups are second nature).  Experience building and maintaining dashboards in data visualization tools (Age",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Video Editor (Davinci Resolve)",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T21:27:04+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/video-editor-davinci-resolve-worker-bee-supply-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Strong editing in DaVinci Resolve (we can provide a Studio license if needed)  A reel that shows interview-based or corporate work, plus at least one short-form social piece  Clean, professional instincts: good story structure, sound edits, and attention to detail  Strong English, written and spok",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "IA Developer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T20:11:48+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ia-developer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Experiencia comprobable desarrollando soluciones de IA o aprendizaje automático en producción.  Dominio de Python y de al menos un framework de IA generativa (por ejemplo, LangChain, LlamaIndex o Semantic Kernel).  Experiencia con servicios de IA en la nube, preferentemente en Microsoft Azure, par",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Creativo/a Audiovisual con IA Generativa",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T20:11:36+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/freelance-ia-generativa-video-e-imagen-leytonmedia-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Portafolio actualizado con trabajos propios realizados con IA (excluyente). Es el principal criterio de evaluación y no se considerarán postulaciones sin link.  Dominio comprobable de Higgsfield (Motion, Soul, Steal, DoP, Mix, Draw to Video) y Midjourney (parámetros avanzados, SREF y estilos).  Ma",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "UX/UI Designer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-02T18:37:56+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ux-ui-designer-pyxl-remote-5bf7",
-   "rubro": "Tecnología",
-   "descripcion": "Excellent spoken and written English, since you’ll collaborate directly with US-based clients and teams  Clear communication and reliable availability during US business hours (EST or CST)  Mandatory experience designing eCommerce, D2C and application experiences  Experience with consumer goods br",
    "primer_empleo": false
   }
  ]
