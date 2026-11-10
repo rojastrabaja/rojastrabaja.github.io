@@ -1,19 +1,103 @@
 {
- "actualizado": "2026-11-10T09:42:44.945191+00:00",
+ "actualizado": "2026-11-10T16:36:59.358447+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 137
+  "Get on Board": 136
  },
  "resumen": {
-  "encontradas": 197,
-  "vencidas_quitadas": 85,
+  "encontradas": 196,
+  "vencidas_quitadas": 89,
   "duplicadas_quitadas": 27,
-  "publicadas": 85
+  "publicadas": 80
  },
  "ofertas": [
+  {
+   "titulo": "Product Builder",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T15:13:58+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-3495",
+   "rubro": "Tecnología",
+   "descripcion": "Entre 1 y 3 años programando con Ruby on Rails como base. Se consideran recién egresados/as que puedan mostrar proyectos reales.  Titulado de Ingeniería Civil o carreras afines.  Ruby y Ruby on Rails a nivel sólido.  GraphQL a nivel sólido.  Disposición demostrable a aprender y trabajar en otros l",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Staff Data Scientist / Machine Learning Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T12:48:32+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/staff-data-scientist-machine-learning-engineer-andersen-lab-remote",
+   "rubro": "Tecnología",
+   "descripcion": "- Hands-on experience in Machine Learning Engineering using Python, including developing, deploying, and maintaining production-grade ML models, for 5+ years.   - Proven experience with gradient boosting algorithms (XGBoost, CatBoost, or LightGBM), including hyperparameter tuning, feature importanc",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Remote Operations Coordinator",
+   "empresa": "Pearl Talent",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T11:11:44+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pearl-talent/jobs/remote-operations-coordinator?utm_source=api",
+   "descripcion": "Work From Anywhere in LATAM or the PhilippinesWork Schedule: ET | 9:00 AM – 6:00 PM About Pearl TalentPearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "QA Manual Engineer",
+   "empresa": "Azumo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T10:40:06+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/azumo/jobs/qa-manual-engineer?utm_source=api",
+   "descripcion": "We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Teach English From Home with YiYi !",
+   "empresa": "YiYiEnglish",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T10:16:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/yiyienglish/jobs/teach-english-from-home-with-yiyi-293666114?utm_source=api",
+   "descripcion": "Teach English Online! • Stable Class Hours = Stable Income • Fixed Student & Teacher pairing • Long-term employment only!",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Executive Assistant (Job ID: MARSAM2EA)",
+   "empresa": "InsideOutVAS",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T09:53:33+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/insideoutvas/jobs/executive-assistant-job-id-marsam2ea?utm_source=api",
+   "descripcion": "🌟 Exciting Remote Opportunity!  We're Hiring an Executive Assistant!",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Remote RCM Specialist",
+   "empresa": "Pearl Talent",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T09:45:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pearl-talent/jobs/remote-rcm-specialist?utm_source=api",
+   "descripcion": "Work From Anywhere in LATAM or the PhilippinesWork Schedule: 9AM - 5PM PST About Pearl TalentPearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU.",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
   {
    "titulo": "Python Cloud Engineer",
    "empresa": "Admios",
@@ -363,30 +447,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Staff Data Scientist / Machine Learning Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T19:09:09+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/staff-data-scientist-machine-learning-engineer-andersen-lab-remote",
-   "rubro": "Tecnología",
-   "descripcion": "- Hands-on experience in Machine Learning Engineering using Python, including developing, deploying, and maintaining production-grade ML models, for 5+ years.   - Proven experience with gradient boosting algorithms (XGBoost, CatBoost, or LightGBM), including hyperparameter tuning, feature importanc",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Product Builder",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T17:50:55+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-3495",
-   "rubro": "Tecnología",
-   "descripcion": "Entre 1 y 3 años programando con Ruby on Rails como base. Se consideran recién egresados/as que puedan mostrar proyectos reales.  Titulado de Ingeniería Civil o carreras afines.  Ruby y Ruby on Rails a nivel sólido.  GraphQL a nivel sólido.  Disposición demostrable a aprender y trabajar en otros l",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Creative Director",
    "empresa": "ScaleJet",
    "localidad": "Remoto",
@@ -444,42 +504,6 @@
    "url": "https://himalayas.app/companies/hirehawk/jobs/dental-scheduling-virtual-assistant-latam?utm_source=api",
    "descripcion": "All candidates from LATAM are welcome to apply!!!",
    "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "1225 - 406SLF | Territory Account Executive",
-   "empresa": "TalentCross",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T12:52:23+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/talentcross/jobs/1225-406slf-territory-account-executive?utm_source=api",
-   "descripcion": "TERRITORY ACCOUNT EXECUTIVE Location: Buenos Aires, AR Department: Sales Employment Type: Full-Time About the Role:As a Territory Account Executive, you will be responsible for managing a dedicated territory within the Growth Business sector (51-300 employees), overseeing the entire sales cycle from",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Medical Document Retrieval Specialist (Argentina | Remote)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T12:38:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/medical-document-retrieval-specialist-argentina-remote?utm_source=api",
-   "descripcion": "Medical Document Retrieval Specialist (Remote) Schedule: Full-Time | Monday - Friday, 9:00 AM - 5:00 PM ESTApply here:OverviewThe Medical Document Retrieval Specialist plays a pivotal role in the healthcare medical records retrieval process.",
-   "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior DevOps Engineer",
-   "empresa": "NextLink Labs",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T12:33:32+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/nextlink-labs/jobs/senior-devops-engineer?utm_source=api",
-   "descripcion": "About NextLink LabsNextLink Labs is a technical consulting firm specializing in helping companies build, scale, and secure their technology through custom software development, DevOps, and application security services.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   },
   {
@@ -948,90 +972,6 @@
    "url": "https://www.getonbrd.com/jobs/performance-media-measurement-manager-pyxl-remote",
    "rubro": "Tecnología",
    "descripcion": "Required   Excellent spoken and written English, since you’ll collaborate directly with US-based clients and teams  Reliable availability during US business hours (EST or CST)  2-4 years of hands-on paid media experience, ideally at a digital marketing agency  Deep proficiency in Meta Ads and Googl",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Editor/a Senior de Ficción — Pronyr Tv",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T15:49:49+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/editor-a-senior-de-ficcion-pronyr-tv-cute-digital-media-remote",
-   "rubro": "Tecnología",
-   "descripcion": "• Mínimo 5 años de experiencia profesional en edición audiovisual.  • Experiencia demostrable editando ficción, series, cine, televisión, cortometrajes narrativos u obras de larga duración. La experiencia exclusiva en reels, pauta o videos corporativos no sustituye este requisito.  • Portafolio con",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Performance Meta Ads & Attribution",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T15:49:49+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/senior-performance-meta-ads-attribution-cute-digital-media-remote",
-   "rubro": "Tecnología",
-   "descripcion": "• 5+ años de experiencia comprobable en Meta Ads, performance marketing o media buying.  • Haber administrado directamente al menos USD 50,000 mensuales en Meta Ads durante seis meses o más.  • Certificación Meta Blueprint vigente o verificable, idealmente en Media Buying, Performance Marketing o D",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Account Manager & Sales — Digital Marketing",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T15:49:49+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/account-manager-sales-digital-marketing-cute-digital-media-remote",
-   "rubro": "Tecnología",
-   "descripcion": "• Mínimo 3 años de experiencia en ventas B2B, Account Management, Business Development o roles comerciales similares.  • Experiencia demostrable vendiendo servicios de marketing digital: SEO, paid media, estrategia digital, contenido, desarrollo web o servicios de agencia.  • Experiencia acompañand",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Business Development Manager/Sales Manager",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T15:48:07+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/business-development-manager-sales-manager-imotio-inc-remote",
-   "rubro": "Tecnología",
-   "descripcion": "What we’re looking for:    You understand solution (project-based) selling and know how to sell through expertise  You have extensive B2B sales experience in international markets (LATAM) and a track record of closing large deals  You speak fluent English  You can work out client needs and technic",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Back-end Senior Java – Sagas y GCP",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T14:36:42+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-java-spring-boot-factor-it-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Mínimo 5 años de experiencia comprobable en desarrollo backend con Java y Spring Boot en arquitecturas de microservicios. Experiencia práctica implementando transaccionalidad distribuida: patrón Saga, idempotencia y flujos de compensación. Experiencia sólida en arquitecturas orientadas a eventos so",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Process Analyst (Flow Engineering)",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T14:13:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/senior-process-analyst-flow-engineering-integratz-vina-del-mar",
-   "rubro": "Tecnología",
-   "descripcion": "7+ years of experience as a Process Analyst, Business Analyst, or in a related operational improvement role, including experience leading initiatives end-to-end.  Proven track record leading process improvement initiatives from discovery through implementation and adoption.  Strong analytical, cri",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior .NET Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T14:11:15+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote",
-   "rubro": "Tecnología",
-   "descripcion": "2+ years of professional .NET development with strong C# fundamentals  Proven experience with ASP.NET Core and modern .NET (6/7/8)  Azure cloud experience — deployments, services, and ideally some migration work  Hands-on with CI/CD pipelines (GitHub Actions, Azure DevOps, or similar)  Comfortable",
    "primer_empleo": false
   }
  ]
