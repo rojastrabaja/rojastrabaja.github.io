@@ -1,19 +1,91 @@
 {
- "actualizado": "2026-11-10T16:36:59.358447+00:00",
+ "actualizado": "2026-11-10T22:27:48.384779+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 136
+  "Get on Board": 133
  },
  "resumen": {
-  "encontradas": 196,
-  "vencidas_quitadas": 89,
-  "duplicadas_quitadas": 27,
-  "publicadas": 80
+  "encontradas": 193,
+  "vencidas_quitadas": 111,
+  "duplicadas_quitadas": 13,
+  "publicadas": 69
  },
  "ofertas": [
+  {
+   "titulo": "Senior QA Engineer - Performance Testing",
+   "empresa": "CodeRoad",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T20:53:46+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/coderoad/jobs/senior-qa-engineer-performance-testing?utm_source=api",
+   "descripcion": "Engagement Type: Contractor (3-Month Project) About CodeRoadCodeRoad is a technology execution partner trusted by companies across North America since 2002.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Client Partner - Spotify",
+   "empresa": "Uplift People Consulting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T20:33:04+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/uplift-people-consulting/jobs/senior-client-partner-spotify-5801880933?utm_source=api",
+   "descripcion": "About UpliftUplift is a dynamic agency specializing in global talent search, covering EMEA, LATAM, USA, and APAC.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Software Engineer, Observability (Go)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T20:04:55+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Must-have requirements  Apply if all of these describe you. Listing Go as a skill isn't enough: we're looking for Go you've written and run in production.   5+ years as a software engineer.  Go as your main production language, ideally for 3+ years. You write idiomatic Go and can point to services,",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Scrum Master (LATAM)",
+   "empresa": "Productiv Team",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T19:31:52+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/productiv-team/jobs/scrum-master-latam?utm_source=api",
+   "descripcion": "We are seeking an experienced Scrum Master to support multiple Agile implementation teams—referred to as pods—within the Arc technology platform.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior AI Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T19:09:13+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-ai-engineer-tenvyro-tech-remote",
+   "rubro": "Tecnología",
+   "descripcion": "5+ years of professional software engineering experience, including hands-on AI/ML development.  Strong proficiency in Python, FastAPI, REST APIs, and backend architecture.  Practical experience developing applciations with LLMs and Generative AI.  Hands-on experience with RAG, LangChain, and vecto",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Full-Stack AI Engineer",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T18:58:41+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/fullstack-ai-engineer-improving-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Experiencia profesional  +7 años como Full-Stack Engineer  desarrollando aplicaciones web y microservicios en producción.   Inglés intermedio/avanzado o avanzado. (Obligatorio)    Angular avanzado y TypeScript , incluyendo arquitectura SPA, gestión de estado y componentes reutilizables.  Experienc",
+   "primer_empleo": false
+  },
   {
    "titulo": "Product Builder",
    "empresa": "Empresa en Get on Board",
@@ -24,6 +96,42 @@
    "url": "https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote-3495",
    "rubro": "Tecnología",
    "descripcion": "Entre 1 y 3 años programando con Ruby on Rails como base. Se consideran recién egresados/as que puedan mostrar proyectos reales.  Titulado de Ingeniería Civil o carreras afines.  Ruby y Ruby on Rails a nivel sólido.  GraphQL a nivel sólido.  Disposición demostrable a aprender y trabajar en otros l",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior React Full-stack Developer",
+   "empresa": "lemon.io",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T13:24:32+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/lemon-io/jobs/senior-react-full-stack-developer?utm_source=api",
+   "descripcion": "helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Product Designer (PCS947)",
+   "empresa": "Hire Overseas",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T13:09:40+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/senior-product-designer-pcs947?utm_source=api",
+   "descripcion": "💼 Senior Product Designer 🌍 Open to Latin America and Nigeria🏠 Remote About Our ClientOur client is an early-stage GovTech startup building a modern planning and permitting platform for local governments.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Client Solutions Manager - Pinterest Ads",
+   "empresa": "Uplift People Consulting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T13:06:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/uplift-people-consulting/jobs/senior-client-solutions-manager-pinterest-ads?utm_source=api",
+   "descripcion": "About UpliftUplift is a dynamic agency specializing in global talent search, covering EMEA, LATAM, USA, and APAC.",
+   "rubro": "Comercio y ventas",
    "primer_empleo": false
   },
   {
@@ -447,18 +555,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Creative Director",
-   "empresa": "ScaleJet",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T17:20:59+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/scalejet/jobs/creative-director-8675328920?utm_source=api",
-   "descripcion": "Our client, a fast-growing eCommerce company in the Health Care space is seeking a commercially minded Creative Director to lead the creative function across our ecommerce business.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Web App Full-Stack Engineer",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -468,42 +564,6 @@
    "url": "https://www.getonbrd.com/jobs/web-app-full-stack-engineer-niuro-remote-03c6",
    "rubro": "Tecnología",
    "descripcion": "Requirements    Senior-level engineer with 5+ years of professional software development experience.  Proven experience developing and maintaining production web applications.  Strong backend development experience.  Hands-on experience developing AI features.  Practical experience working with la",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Legal Intake Specialist (Argentina | Remote)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T14:32:00+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/legal-intake-specialist-argentina-remote?utm_source=api",
-   "descripcion": "Legal Intake Specialist (Remote)Schedule: Full-Time | Monday - Friday, 9:00 AM - 5:00 PM EST Apply here:Position OverviewThe Legal Intake Specialist plays a pivotal role as the first step in the healthcare medical records retrieval process.",
-   "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Combat Designer [CA]",
-   "empresa": "HoYoverse",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T14:12:24+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/mihayo/jobs/senior-combat-designer-ca?utm_source=api",
-   "descripcion": "As a Senior Combat Designer, you’ll focus on creating mechanics, scenarios and characters that contribute to deep yet accessible combat experiences for the player.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Dental Scheduling Virtual Assistant | LATAM",
-   "empresa": "HireHawk",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T13:48:31+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hirehawk/jobs/dental-scheduling-virtual-assistant-latam?utm_source=api",
-   "descripcion": "All candidates from LATAM are welcome to apply!!!",
-   "rubro": "Salud",
    "primer_empleo": false
   },
   {
@@ -780,198 +840,6 @@
    "url": "https://www.getonbrd.com/jobs/junior-ad-ops-specialist-project-ad-ops-llc-remote",
    "rubro": "Tecnología",
    "descripcion": "GCM360 Experience (2+ Years):  Direct, hands-on experience trafficking campaigns, setting up placement structures, and assigning creatives in Google Campaign Manager 360.   Fluent English:  Exceptional written and verbal English for daily internal syncs and polished client-facing documentation.",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T21:47:01+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ai-engineer-interfell-remote",
-   "rubro": "Tecnología",
-   "descripcion": "TypeScript: experiencia sólida desarrollando software listo para producción.  Agentes de IA y sistemas multiagente: experiencia práctica construyendo y orquestando sistemas basados en LLM en producción, incluyendo roles, coordinación, transferencia entre agentes, uso de herramientas, memoria y ges",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Agente de Customer Success Mx",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T21:42:12+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/agente-de-customer-success-mx-comunidadfeliz-remote-d122",
-   "rubro": "Tecnología",
-   "descripcion": "2 años de experiencia en áreas de atención al cliente, ideal de forma remota.  Excelente ortografía y redacción.  Habilidades comunicacionales extraordinarias.  Buen manejo de Excely google sheets (Nivel: tablas dinámicas).  Conocimientos sobre NPS.  Experiencia en Hubspot u otros CRMs",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Account Manager – Customer Success",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T21:33:51+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/account-manager-customer-success-world-teams-remote-a0be",
-   "rubro": "Tecnología",
-   "descripcion": "Experiencia de al menos 1 año en Account Management, Customer Success, Farming o ventas B2B, idealmente con clientes de EE. UU.   Inglés avanzado (C1 o más)  para liderar reuniones y negociar con fluidez.  Mentalidad proactiva y ejecutiva: tomás la iniciativa, te hacés cargo y hacés que las cosas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Engineering Lead",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T21:12:37+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ai-engineering-lead-niuro-remote",
-   "rubro": "Tecnología",
-   "descripcion": "8+ years of software engineering experience, including 3+ years leading concurrent development workstreams or teams  C1 English level or higher  Expertise with AI Coding Assistants, AI Agent Frameworks, and Software Engineering  Strong Git, Shell Scripting, and Command Line skills  Professional ex",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Reclutador/a TI con IA",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:24:03+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/reclutador-a-ti-con-ia-witi-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Al menos 5 años de experiencia en reclutamiento tecnológico (TI).  Haber reclutado perfiles como desarrolladores, data, DevOps, QA, cloud, arquitectos y afines.  Uso avanzado y estratégico de la IA en tu día a día (sourcing, screening, análisis de perfiles, optimización de procesos), como parte ce",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Lead AI Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:28+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/lead-ai-engineer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "7+ años de experiencia en  Software Engineering / Data Engineering .  3+ años trabajando con  soluciones de AI/ML o LLMs , idealmente con extracción de información estructurada.   Inglés avanzado.  – (Obligatorio)  Experiencia sólida y hands-on con  Databricks , incluyendo el desarrollo de solucio",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "QA Automation Engineer (Azure)",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "We’re looking for a QA Automation Engineer with hands-on experience delivering automated testing at the functional, integration, or API level.    Experience:  2–4 years of experience in automated software testing (functional, integration, or API level).   Automation &amp; languages:  Working knowle",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Full-Stack Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "5+ years of experience as a full-stack engineer and/or front-end engineer.  Hands-on experience with React and back-end development, including Java services and APIs.  Experience with Azure DevOps.  Comfort working under deadlines and adapting as project requirements evolve.  Strong verbal and wri",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Desarrollador Full-Stack: Java & Angular",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Backend - Frameworks Java:    SpringBoot (versión 3/4)  Spring Framework (versión 6/7)  Gradle (versión 8/9)    Frontend:    Angular (versiones recientes)  TypeScript  HTML5 y CSS3  RxJS  Angular Material    Bases de Datos:    MongoDB, PostgreSQL, Snowflake (conocimiento básico)    Herramientas:",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Machine Learning Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/machine-learning-engineer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Strong production Python (3.12+), well beyond scripting-level.  Snowflake: writing and optimizing SQL, with an understanding of schema, warehouse and role concepts. Key-pair (JWT) authentication experience is a plus.  Docker: building and optimizing container images, including packaging ML artifac",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Full-Stack Developer: React & Node.js",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "5+ años de experiencia en desarrollo web fullstack.   Experiencia sólida y demostrable en React (componentes funcionales, hooks, state management con Redux, Context API, etc.).   Conocimiento y experiencia en Node.js y frameworks como Express, Nest.js o similares.   Experiencia en desarrollo de A",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Back-end AI Engineer Python / LLM Orchestration",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/backend-ai-engineer-python-llm-orchestration-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "✓  Python en nivel producción.  Posesión clara de la orquestación y lógica de negocio, no scripting   ✓  Experiencia con frameworks multi-agente / LLM : Manos en Pydantic AI, LangChain, CrewAI, o similar (definiciones estructuradas de agentes, orquestación de workflows, tool-calling)   ✓  RAG imple",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Back-end Engineer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T19:07:27+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "• Reliable, maintainable automation workflows in production • AI chatbot capable of triggering real system actions via tools/APIs • Reduced manual operational effort • Clean documentation and well-structured integrations   Required Skills:    • 2–4 years of experience in automation, systems integra",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Ejecutivo de Onboarding Junior",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Argentina",
-   "modalidad": "Presencial",
-   "fecha": "2026-11-03T18:54:24+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/ejecutivo-de-onboarding-junior-agendapro-buenos-aires-4848",
-   "rubro": "Tecnología",
-   "descripcion": "• Licenciatura concluida. • Excelente comunicación verbal y escrita. • Facilidad para explicar conceptos tecnológicos de manera simple. • Organización para administrar múltiples clientes en simultáneo. • Pensamiento analítico y orientación a resultados. • Empatía y gusto por trabajar con emprendedo",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Conversational AI QA Specialist",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T16:49:36+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/conversational-ai-qa-specialist-evolution-collect-llc-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Some QA or review experience: QA of any kind, AI data annotation or evaluation, content review or moderation (for example, tagging social media or political content), or contact center quality. This role is close to entry level, and we will train you on our products and rules.  Attention to detail",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Performance Media & Measurement Manager",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-03T16:43:35+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/performance-media-measurement-manager-pyxl-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Required   Excellent spoken and written English, since you’ll collaborate directly with US-based clients and teams  Reliable availability during US business hours (EST or CST)  2-4 years of hands-on paid media experience, ideally at a digital marketing agency  Deep proficiency in Meta Ads and Googl",
    "primer_empleo": false
   }
  ]
