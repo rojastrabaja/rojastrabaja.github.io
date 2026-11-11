@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T09:44:49.231184+00:00",
+ "actualizado": "2026-11-11T16:40:09.635496+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,143 @@
  },
  "resumen": {
   "encontradas": 193,
-  "vencidas_quitadas": 111,
-  "duplicadas_quitadas": 11,
-  "publicadas": 71
+  "vencidas_quitadas": 110,
+  "duplicadas_quitadas": 10,
+  "publicadas": 73
  },
  "ofertas": [
+  {
+   "titulo": "Remote Travel Advisor — Independent Contractor",
+   "empresa": "Mattis Travel",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T16:28:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/mattis-travel/jobs/remote-travel-advisor-independent-contractor?utm_source=api",
+   "descripcion": "Company: Mattis Travel Location: Remote—approved countries only Contract Type: Independent contractor Potential Earnings: $30,000–$60,000 USD annually in commissions About Mattis TravelMattis Travel specializes in personalized vacations, including cruises, Disney destinations, accessible and sensory",
+   "rubro": "Agro",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Full-Cycle Marketing Recruiter (Agency | Remote)",
+   "empresa": "ProperExpression",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T15:28:01+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/properexpression/jobs/full-cycle-marketing-recruiter-agency-remote?utm_source=api",
+   "descripcion": "OverviewDo you love talking to people all day?  Do you get a little thrill when the right person says yes?",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "🌎 AI Trainer (SWE), Remote- Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T15:23:33+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract?utm_source=api",
+   "descripcion": "Role Title: AI Trainer (SWE) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills:• Software Engineering • AI training You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated ",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Engineer (PM)",
+   "empresa": "Search Atlas",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T14:34:53+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/search-atlas/jobs/product-engineer-pm-5642318840?utm_source=api",
+   "descripcion": "Location: Fully Remote Compensation: $23. 08 to $34.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Systems Analyst (Fluent English)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T14:23:18+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/systems-analyst-fluent-english-institute-for-portfolio-alternative-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Meticulous and systematic, with a high standard for accuracy and the discipline to build repeatable processes.  Strong data skills, including advanced Excel, data imports and exports, deduplication, and reporting.  A clear communicator who can translate between technical and non-technical colleagu",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Software Engineer, Observability (Go)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T12:48:30+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Must-have requirements  Apply if all of these describe you. Listing Go as a skill isn't enough: we're looking for Go you've written and run in production.   5+ years as a software engineer.  Go as your main production language, ideally for 3+ years. You write idiomatic Go and can point to services,",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Forward Deployed Engineer",
+   "empresa": "Safe Security",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T12:11:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/safe-security/jobs/forward-deployed-engineer?utm_source=api",
+   "descripcion": "Most boards and executives are currently flying blind when it comes to cyber risk.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "🌎 Life Sciences Research Expert (Python), Remote- Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T11:12:40+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512?utm_source=api",
+   "descripcion": "Role Title: Life Sciences Research Expert (Python) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired Required Skills:• Python • Biology • Medicine • Materials • Neuroscience • Astronomy In t",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Business Architect",
+   "empresa": "Alpaca",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T11:11:01+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/alpaca/jobs/senior-business-architect?utm_source=api",
+   "descripcion": "Who We Are:Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Fullstack Engineer",
+   "empresa": "Toptal",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T11:07:20+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/toptal/jobs/senior-fullstack-engineer?utm_source=api",
+   "descripcion": "About ToptalToptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "🌎 AI Trainer (ML Engineering), Remote- Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T11:03:38+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract?utm_source=api",
+   "descripcion": "Role Title: AI Trainer (ML Engineering) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills:• ML Engineering • AI training • Programming Skills You will use your machine learning expertise to create challenging technical tasks, eva",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "V108 - Medical Records and Client Communication Case Manager II",
    "empresa": "Job Duck",
@@ -231,18 +363,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Senior Software Engineer, Observability (Go)",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T20:04:55+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Must-have requirements  Apply if all of these describe you. Listing Go as a skill isn't enough: we're looking for Go you've written and run in production.   5+ years as a software engineer.  Go as your main production language, ideally for 3+ years. You write idiomatic Go and can point to services,",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Scrum Master (LATAM)",
    "empresa": "Productiv Team",
    "localidad": "Remoto",
@@ -420,90 +540,6 @@
    "url": "https://www.getonbrd.com/jobs/senior-ai-full-stack-engineer-common-forge-ventures-remote",
    "rubro": "Tecnología",
    "descripcion": "Background in B2B SaaS or product-led companies.  5+ years of full-stack development experience, with strong fluency in either TypeScript/Node or Python (ideally both) and a modern frontend framework (React, Next.js, or Angular).  Hands-on agent work: tool or function calling, multi-step orchestra",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Google Media Buyer (Contract, Full-time)",
-   "empresa": "MVR Digital",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T06:41:57+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/mvr-digital/jobs/senior-google-media-buyer-contract-full-time?utm_source=api",
-   "descripcion": "Senior Google Media Buyer MVR Digital | Remote | Full-Time About MVR DigitalMVR Digital is a performance marketing agency recognized by Adweek as one of the Fastest Growing Agencies.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Marketing Agency Client Account Coordinator",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T06:29:37+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/marketing-agency-client-account-coordinator?utm_source=api",
-   "descripcion": "Position Type: Part-Time | Remote Working Hours: 20–30 hours per week, within agreed working blocks between 11:00 a.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior DevOps Engineer",
-   "empresa": "CodeRoad",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T04:39:13+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/coderoad/jobs/senior-devops-engineer?utm_source=api",
-   "descripcion": "Engagement Type: Full-Time / Contractor About CodeRoadCodeRoad is a technology execution partner trusted by companies across North America since 2002.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Human Resources Associate (Argentina)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T04:25:24+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/human-resources-associate-argentina?utm_source=api",
-   "descripcion": "On-Call HR Support Specialist (100% Remote, Part-Time) ﻿﻿Please apply through this application link: ﻿ We are seeking a reliable and responsive On-Call HR Support Specialist to provide part-time coverage during off-hours.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Agentic AI Engineer",
-   "empresa": "CodeRoad",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T04:10:06+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/coderoad/jobs/senior-agentic-ai-engineer?utm_source=api",
-   "descripcion": "About CodeRoadCodeRoad provides end-to-end software development services, helping businesses scale with ideal infrastructure solutions.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Procurement and Purchase Order Processor (Argentina)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T04:09:58+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/procurement-and-purchase-order-processor-argentina?utm_source=api",
-   "descripcion": "Procurement and Purchase Order ProcessorApply here: (Select the Procurement Specialist role) Were looking for a highly detail-oriented and reliable Procurement and Purchase Order Processor to review, validate, and improve document data processed through our system.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sales Development Representative - Cold Caller (Latin America)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T03:42:35+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/sales-development-representative-cold-caller-latin-america?utm_source=api",
-   "descripcion": "Position Overview | ﻿Fully RemoteWe are seeking a motivated and goal-oriented Sales Development Representative (SDR) to join our growing team.",
-   "rubro": "Comercio y ventas",
    "primer_empleo": false
   },
   {
@@ -852,18 +888,6 @@
    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote",
    "rubro": "Tecnología",
    "descripcion": "Título de Ingeniería Civil o Ingeniería de Ejecución, en sus diversas especialidades.  Al menos 2 años de experiencia en desarrollo de software.  Nivel avanzado en HTML (últimas versiones), CSS compatible con múltiples navegadores, JavaScript, AJAX y diseño adaptativo.  Experiencia con frameworks J",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Android Developer",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-04T15:41:20+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/android-developer-improving-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Nivel de inglés B2/C1 (intermedio alto/avanzado). Excluyente.    Contar con más de 4 años de experiencia en desarrollo con Kotlin y Java.    Experiencia en desarrollo de interfaces Android utilizando Jetpack Compose, Android Views y Material Design.    Conocimiento de ViewModels, Unidirectional D",
    "primer_empleo": false
   }
  ]
