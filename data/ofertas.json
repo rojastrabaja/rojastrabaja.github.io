@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T22:27:48.384779+00:00",
+ "actualizado": "2026-11-11T09:44:49.231184+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -10,10 +10,202 @@
  "resumen": {
   "encontradas": 193,
   "vencidas_quitadas": 111,
-  "duplicadas_quitadas": 13,
-  "publicadas": 69
+  "duplicadas_quitadas": 11,
+  "publicadas": 71
  },
  "ofertas": [
+  {
+   "titulo": "V108 - Medical Records and Client Communication Case Manager II",
+   "empresa": "Job Duck",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T08:52:22+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/job-duck/jobs/v108-medical-records-and-client-communication-case-manager-ii?utm_source=api",
+   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Associate Client Partner (Digital Ads Sales) - Criteo",
+   "empresa": "Uplift People Consulting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T08:32:42+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/uplift-people-consulting/jobs/associate-client-partner-digital-ads-sales-criteo?utm_source=api",
+   "descripcion": "About UpliftUplift is a dynamic agency specializing in global talent search, covering EMEA, LATAM, USA, and APAC.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Project Manager",
+   "empresa": "RWS Group",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T05:53:08+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/rws-group/jobs/project-manager?utm_source=api",
+   "descripcion": "Job PurposeThe Project Manager is responsible for all phases of the project delivery life cycle, driving a localization program to provide high-quality localized products and content while maximizing process and cost efficiency.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Recruiter, US Desk (Healthcare, Industrial, Direct Hire)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T05:48:36+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/recruiter-us-desk-healthcare-industrial-direct-hire-job-com-remote",
+   "rubro": "Tecnología",
+   "descripcion": "2+ years on a full desk at a US staffing agency in healthcare (travel, allied, per diem), light industrial, or direct hire.  Numbers you can show: placements per month, contractors on assignment, GP or billings.  English strong enough to close a US nurse or plant manager on the phone without a scr",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "V108 - Bilingual Pre-Suit Case Manager",
+   "empresa": "Job Duck",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T05:07:53+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/job-duck/jobs/v108-bilingual-pre-suit-case-manager?utm_source=api",
+   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "LATAM | Delivery/Programme Manager (B2B Contractor)",
+   "empresa": "Infinite Lambda",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T04:24:59+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/infinite-lambda/jobs/latam-delivery-programme-manager-b2b-contractor?utm_source=api",
+   "descripcion": "About the roleAs a Programme Manager at Infinite Lambda, you'll hold accountability for the successful delivery of multi-workstream programmes for our most important clients.",
+   "rubro": "Agro",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Social Media Manager Marca Personal (Ig, TikTok, Yt)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T04:20:37+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/social-media-manager-omnicanal-iboost-social-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Para este rol, buscamos una persona con experiencia real gestionando contenido en múltiples plataformas a la vez y que domine el video corto con mentalidad de rendimiento.  · Haber sido responsable del contenido de una marca personal o de un infoproducto en español. Nos interesa ver las cuentas, qu",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Client Solutions Manager - Spotify",
+   "empresa": "Uplift People Consulting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T03:06:43+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/uplift-people-consulting/jobs/client-solutions-manager-spotify?utm_source=api",
+   "descripcion": "About UpliftUplift is a dynamic agency specializing in global talent search, covering EMEA, LATAM, USA, and APAC.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "LATAM | Senior Data Business Analyst / Product Owner (B2B Contractor)",
+   "empresa": "Infinite Lambda",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T02:53:07+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/infinite-lambda/jobs/latam-senior-data-business-analyst-product-owner-b2b-contractor?utm_source=api",
+   "descripcion": "Role OverviewThe Senior Data Business Analyst / Product Owner is a senior, client-facing member of the Data Products function who leads projects or individual domains within Data Transformation engagements, from the earliest Discovery and Scoping conversations through to Agile delivery and sign-off.",
+   "rubro": "Agro",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "(Fluent English) Full-Cycle Sales Representative",
+   "empresa": "SupportYourApp",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T02:19:36+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-full-cycle-sales-representative?utm_source=api",
+   "descripcion": "We’re looking for a confident and empathic Full-Cycle Sales Representative to join the team of one of our clients.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Full-Stack Engineer (TypeScript, Next.JS, Postgres)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T01:28:50+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote",
+   "rubro": "Tecnología",
+   "descripcion": "3 to 6 years building production web applications, owning work from the screen to the database.  Strong TypeScript and SQL.  You have shipped software other people depended on every day, ideally something transactional or operational.  You use AI coding tools seriously and know where they help and",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "V105C - Legal Assistant | Legal Administrative  & Case Coordinator",
+   "empresa": "Job Duck",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T00:57:05+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/job-duck/jobs/v105c-legal-assistant-legal-administrative-case-coordinator?utm_source=api",
+   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Account Executive (LATAM - Spanish Speaker)",
+   "empresa": "Respond.io",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T00:18:48+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/respond-io/jobs/account-executive-latam-spanish-speaker?utm_source=api",
+   "descripcion": "*Resume MUST be in EnglishLocation: LATAM Role: Account Executive (Spanish Speaker) Department: Sales Department About Respond.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "V105 - Legal Assistant | Legal & Litigation Support Specialist",
+   "empresa": "Job Duck",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-11T00:18:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/job-duck/jobs/v105-legal-assistant-legal-litigation-support-specialist?utm_source=api",
+   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Client Community Coordinator | Remote | LATAM Only | 82015",
+   "empresa": "Remote Talent LATAM",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T23:17:22+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/client-community-coordinator-remote-latam-only-82015?utm_source=api",
+   "descripcion": "About UsRemote Talent LATAM connects talented professionals across Latin America with growing companies in the U.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Accounting / AP / AR / Collections Team Member",
+   "empresa": "Nearshore Business Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-10T22:03:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/accounting-ap-ar-collections-team-member?utm_source=api",
+   "descripcion": "Job Title: Accounting / AP / AR / Collections Team Member Location: Remote – Latin America Preferred Type of Contract: Contractor or EOR Salary Range: $1,200 - $1,500 USD/Month Language Requirements: Advanced to Native-Level Spoken and Written English Required We are seeking a skilled Accounting / A",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
   {
    "titulo": "Senior QA Engineer - Performance Testing",
    "empresa": "CodeRoad",
@@ -315,18 +507,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Intermediate Scrum Master - OP02323",
-   "empresa": "Dev.Pro",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T03:18:21+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-scrum-master-op02323?utm_source=api",
-   "descripcion": "New opportunities in Latin America!  🟢 Dev. Pro is a US-based software development company helping tech companies build their products and grow their business.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "AI / ML Engineer",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -375,114 +555,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Talent Acquisition Partner",
-   "empresa": "The Global Talent Co.",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T02:55:01+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/the-global-talent-co/jobs/talent-acquisition-partner-2687272779?utm_source=api",
-   "descripcion": "Talent Acquisition PartnerFull-time (40-hour-per-week) | Remote Check out The Global Talent Co.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Product Designer (PCS946)",
-   "empresa": "Hire Overseas",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T02:48:28+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/senior-product-designer-pcs946?utm_source=api",
-   "descripcion": "💼 Senior Product Designer 🌍 Open to Latin America and Nigeria🏠 Remote About Our ClientOur client is an early-stage GovTech startup building a modern planning and permitting platform for local governments.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "DevOps Architect",
-   "empresa": "NextLink Labs",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T02:17:55+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/nextlink-labs/jobs/devops-architect?utm_source=api",
-   "descripcion": "About NextLink LabsNextLink Labs is a technical consulting firm specializing in helping companies build, scale, and secure their technology through custom software development, DevOps, and application security services.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Copy of Software Developer – AI Coding Assistant Evaluation",
-   "empresa": "Lifted (an Upwork Company)",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T01:52:12+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/copy-of-software-developer-ai-coding-assistant-evaluation-5609222702?utm_source=api",
-   "descripcion": "We are looking for developers who have a software project they personally own, such as a side project, personal tool, or open-source library.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Client Success Manager",
-   "empresa": "Seven Figure SMP",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T01:32:55+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/seven-figure-smp/jobs/client-success-manager?utm_source=api",
-   "descripcion": "Seven Figure SMP is a US-based marketing agency.  Since 2020 we've served 200+ clients in the US, UK, Canada, Australia and Ireland.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Investment Associate",
-   "empresa": "Partner One Capital",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T23:06:58+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/partner-one-capital/jobs/investment-associate?utm_source=api",
-   "descripcion": "Partner One is a leading investment group with a 30-year history of acquiring and growing successful software companies.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sales Development Representative | Argentina",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T23:06:13+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/sales-development-representative-argentina?utm_source=api",
-   "descripcion": "SDR - Cold Caller | Full Time | 100% RemoteWe are seeking a motivated and goal-oriented Sales Development Representative (SDR) to join our growing team.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "HR Assistant (Argentina)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T23:01:23+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/hr-assistant-argentina?utm_source=api",
-   "descripcion": "HR Assistant (100% Remote) Support our HR Manager in payroll, HR systems, communications, and reporting Please apply through this application link: About the RoleWe are seeking a proactive, detail-oriented HR Assistant to support our HR Manager in day-to-day HR operations, including payroll administ",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Operations Assistant (Construction Support) (Job ID: PRIRIC1R)",
-   "empresa": "InsideOutVAS",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T22:56:16+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/insideoutvas/jobs/operations-assistant-construction-support-job-id-priric1r?utm_source=api",
-   "descripcion": "🌟 Exciting Remote Opportunity!  We're Hiring an Operations Assistant (Construction Support)!",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Senior .NET Back-end Engineer (Modern Platform)",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -516,42 +588,6 @@
    "url": "https://www.getonbrd.com/jobs/payroll-administration-specialist-interfell-remote",
    "rubro": "Tecnología",
    "descripcion": "Nómina española / Procesamiento de nóminas.  Administración de la Seguridad Social.  Conocimientos de Seguridad Social.  Procesamiento de nóminas.  Gestión de altas y bajas de empleados.  Contratos laborales.  Incapacidad temporal (IT).  Gestión de profesionales autónomos.",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Gestor/a de Catálogo (francés)",
-   "empresa": "We are Tims",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T21:41:04+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/we-are-tims/jobs/gestor-a-de-catalogo-frances?utm_source=api",
-   "descripcion": "Gestor/a de Catálogo (francés)¿De qué se trata el cargo?",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Customer Success & Operations Manager (Argentina)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T21:22:12+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/customer-success-operations-manager-argentina?utm_source=api",
-   "descripcion": "Apply here:﻿About UsWe are a growing startup helping fast-growing businesses scale through high-quality offshore talent.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Recruiter (Argentina | Remote | Full-Time)",
-   "empresa": "OperationsArmy",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-09T20:35:29+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/operationsarmy/jobs/recruiter-argentina-remote-full-time?utm_source=api",
-   "descripcion": "High-Volume Recruiter (Startup Experience Preferred) Location: Remote | Type: Full-Time | Team: Ops & Talent Apply directly here: The RoleWere looking for a scrappy, high-velocity recruiter who thrives in fast-paced, zero-red-tape environments.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   },
   {
@@ -828,18 +864,6 @@
    "url": "https://www.getonbrd.com/jobs/android-developer-improving-remote",
    "rubro": "Tecnología",
    "descripcion": "Nivel de inglés B2/C1 (intermedio alto/avanzado). Excluyente.    Contar con más de 4 años de experiencia en desarrollo con Kotlin y Java.    Experiencia en desarrollo de interfaces Android utilizando Jetpack Compose, Android Views y Material Design.    Conocimiento de ViewModels, Unidirectional D",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Junior Ad Ops Specialist",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-04T04:01:05+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/junior-ad-ops-specialist-project-ad-ops-llc-remote",
-   "rubro": "Tecnología",
-   "descripcion": "GCM360 Experience (2+ Years):  Direct, hands-on experience trafficking campaigns, setting up placement structures, and assigning creatives in Google Campaign Manager 360.   Fluent English:  Exceptional written and verbal English for daily internal syncs and polished client-facing documentation.",
    "primer_empleo": false
   }
  ]
