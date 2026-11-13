@@ -1,19 +1,115 @@
 {
- "actualizado": "2026-11-12T22:31:57.466620+00:00",
+ "actualizado": "2026-11-13T09:44:59.774857+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 133
+  "Get on Board": 134
  },
  "resumen": {
-  "encontradas": 193,
+  "encontradas": 194,
   "vencidas_quitadas": 98,
-  "duplicadas_quitadas": 12,
-  "publicadas": 83
+  "duplicadas_quitadas": 14,
+  "publicadas": 82
  },
  "ofertas": [
+  {
+   "titulo": "Recruiter",
+   "empresa": "Yamu",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-13T06:53:06+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/yamu/jobs/recruiter?utm_source=api",
+   "descripcion": "YAMU Media is looking for a Talent Recruiter located outside of the United States to join our team.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Egocentric Data Collection Partner",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-13T03:35:02+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/ai-egocentric-data-collection-partner-wiingy-inc-remote-228c",
+   "rubro": "Tecnología",
+   "descripcion": "Your own existing team or network of contributors, ready to start recording  Proven experience with egocentric (first person) video data collection for AI, or closely related video data collection projects  Ability to manage device logistics end to end (phones, head mounts and accessories)  Capaci",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Manager (Fluent English + Russian)",
+   "empresa": "Keepgo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T23:30:49+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/keepgo/jobs/product-manager-fluent-english-russian?utm_source=api",
+   "descripcion": "Keepgo is a global mobile internet provider offering innovative products and solutions based on virtual technologies, primarily eSIM.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Middle Product Manager (Fluent Russian + English)",
+   "empresa": "Keepgo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T23:30:49+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/keepgo/jobs/middle-product-manager-fluent-russian-english?utm_source=api",
+   "descripcion": "Keepgo is a global mobile internet provider offering innovative products and solutions based on virtual technologies, primarily eSIM.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Post Sales Account Manager",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T23:26:46+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/post-sales-account-manager-awecomic-remote",
+   "rubro": "Tecnología",
+   "descripcion": "3+ years of hands-on experience in Account Management or Creative Project Management with commercial ownership, gained within a creative agency, design/production studio, or creative-focused SaaS company.    Fluent in English.    A creative, marketing, or design background.  You don't need to des",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "38880 - DevOps/SRE Engineer",
+   "empresa": "Valce Talent Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T23:19:16+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/38880-devops-sre-engineer?utm_source=api",
+   "descripcion": "38880 - DevOps/SRE EngineerWe are looking for a senior DevOps engineer to keep the EY Fabric Developer Workflow up to date, compliant and ready for the teams that use it.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "International Business Development Lead (B2B Sales)",
+   "empresa": "Empresa en Get on Board",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T23:05:16+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/international-business-development-lead-b2b-sales-sum-trading-remote",
+   "rubro": "Tecnología",
+   "descripcion": "Mínimo 3 años de experiencia comprobable en ventas B2B y desarrollo comercial.   Dominio avanzado del inglés, hablado y escrito (indispensable).   Experiencia comprobable utilizando redes sociales como herramientas comerciales y de generación de ventas.  Experiencia en estrategias de prospección d",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "JR-226353 Data Business Analyst Lead",
+   "empresa": "Customertimes",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-12T22:49:38+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/customertimes/jobs/jr-226353-data-business-analyst-lead?utm_source=api",
+   "descripcion": "Hello, our name is Customertimes, but you can call us CT.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Oracle DBA – Linux / Windows Server",
    "empresa": "TECDATA ENGINEERING",
@@ -480,114 +576,6 @@
    "url": "https://himalayas.app/companies/stronger-consulting/jobs/director-of-business-development?utm_source=api",
    "descripcion": "Stronger Consulting | Remote | OTE $120,000–$150,000 (Base $60,000–$75,000) ABOUT STRONGER CONSULTINGStronger Consulting believes in the power of great leadership to drive positive change.",
    "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Field Operations Coordinator",
-   "empresa": "Hyre",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T11:48:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hyre/jobs/field-operations-coordinator?utm_source=api",
-   "descripcion": "Field Operations Coordinator• Work Type: Full-time.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "JR-226355 Data Engineer Senior",
-   "empresa": "Customertimes",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T11:43:23+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/customertimes/jobs/jr-226355-data-engineer-senior?utm_source=api",
-   "descripcion": "Hello, our name is Customertimes, but you can call us CT.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "V108 - Case Manager | Personal Injury Case Manager",
-   "empresa": "Job Duck",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T11:20:42+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/job-duck/jobs/v108-case-manager-personal-injury-case-manager-6283004636?utm_source=api",
-   "descripcion": "For ambitious, culturally diverse, curious minds seeking booming careers, Job Duck unlocks and nurtures your potential.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Content Specialist - Customer Support",
-   "empresa": "Matific",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T11:09:01+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/matific/jobs/ai-content-specialist-customer-support?utm_source=api",
-   "descripcion": "About MatificMatific is a fast-growing, AI-first global EdTech company delivering a world-class, research-driven mathematics learning platform for schools.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Clinical Trials Associate- US/LATAM",
-   "empresa": "Worldwide Clinical Trials",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T10:59:46+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/clinical-trials-associate-us-latam?utm_source=api",
-   "descripcion": "Join a global Contract Resource Organization (CRO) where innovation meets purpose.",
-   "rubro": "Salud",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Research Manager",
-   "empresa": "STAND.earth",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T10:56:40+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/stand-earth/jobs/research-manager?utm_source=api",
-   "descripcion": "Stand. earth is seeking a Research Manager to play a key role in Stand.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sales Coordinator - Advertising Company",
-   "empresa": "Entrepreneur Cooperative",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T10:18:42+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/sales-coordinator-advertising-company?utm_source=api",
-   "descripcion": "**PLEASE SUBMIT YOUR CV IN ENGLISH **Location: Remote – Latin America Work Arrangement: Fully Remote Employment Type: Contractor, Full-Time Compensation: USD 1,100 per month English Proficiency: Strong professional English required About the CompanyOur client is an outdoor advertising company driven",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Clinical Data Coordinator (Argentina)",
-   "empresa": "Indero",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T10:16:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/indero/jobs/clinical-data-coordinator-argentina?utm_source=api",
-   "descripcion": "DescriptionThe Clinical Data Coordinator will participate in various clinical data management activities required to ensure that data captured in clinical trials undertaken, or managed by Indero, are collected, managed and reported clearly, accurately and securely.",
-   "rubro": "Salud",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Program Manager, Transformation",
-   "empresa": "Safeguard Global",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-12T10:15:28+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/safeguard-global/jobs/program-manager-transformation?utm_source=api",
-   "descripcion": "This isn’t a Program Manager role where you simply track projects and report on progress.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   },
   {
