@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T16:26:22.098306+00:00",
+ "actualizado": "2026-11-14T22:23:18.665158+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,95 @@
  },
  "resumen": {
   "encontradas": 79,
-  "vencidas_quitadas": 29,
+  "vencidas_quitadas": 28,
   "duplicadas_quitadas": 0,
-  "publicadas": 50
+  "publicadas": 51
  },
  "ofertas": [
+  {
+   "titulo": "Senior Officer, Conserving the Pantanal and Gran Chaco Wildlands",
+   "empresa": "The Pew Charitable Trusts",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T21:00:23+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/the-pew-charitable-trusts/jobs/senior-officer-conserving-the-pantanal-and-gran-chaco-wildlands?utm_source=api",
+   "descripcion": "POSITION DESCRIPTIONTHE PEW CHARITABLE TRUSTSSenior Officer, Conserving the Pantanal and Gran Chaco Wildlands (Protected Area Management and Conservation Finance) The Environment Portfolio at The Pew Charitable Trusts For more than 30 years, Pew has been a major force in engaging the public and poli",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Manager - Remote, Latin America",
+   "empresa": "Bluelight Consulting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T18:15:12+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/bluelight-consulting/jobs/product-manager-remote-latin-america-931533914?utm_source=api",
+   "descripcion": "Bluelight is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Video Editor - Remote",
+   "empresa": "YO AI Labs",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T17:59:24+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/video-editor-remote-3119651394?utm_source=api",
+   "descripcion": "Job Title: At-Work Video Recorder (For Business Owners)Role Type: Contractor Work Arrangement: Remote — Eligible Locations Only Job SummaryAre you a small business owner looking to earn additional income?",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Influencer Marketing Operations Manager (Campaign Fulfillment)",
+   "empresa": "AWISEE",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T17:13:16+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/awisee/jobs/influencer-marketing-operations-manager-campaign-fulfillment?utm_source=api",
+   "descripcion": "About AWISEEAWISEE is a fully remote international marketing agency working across Search, Social and AI Visibility for brands in technology, AI, fintech, gaming and consumer.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Sr. Staff Full-Stack Software Engineer – Go | JavaScript | PostgreSQL | Docker",
+   "empresa": "Motorola Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T16:53:35+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/motorola-solutions/jobs/sr-staff-full-stack-software-engineer-go-javascript-postgresql-docker?utm_source=api",
+   "descripcion": "Company OverviewAt Motorola Solutions, we believe that everything starts with our people.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Paid Media Specialist (Google Ads + Meta) | Performance Marketing for Universiti",
+   "empresa": "Atomic HR",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T16:41:05+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/atomic-hr/jobs/paid-media-specialist-google-ads-meta-performance-marketing-for-universiti?utm_source=api",
+   "descripcion": "Company OverviewOur client is a performance marketing agency that runs paid media, creative and web work for colleges, universities, K-12 schools and nonprofits.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Brand Manager (Remote-LATAM)",
+   "empresa": "Pearster",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T16:09:14+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pearster/jobs/brand-manager-remote-latam?utm_source=api",
+   "descripcion": "Spoiler: This is where your next big move begins.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
   {
    "titulo": "Freelance English into Simplified Chinese (Singapore) Legal and Insurance Transl",
    "empresa": "TransPerfect",
@@ -492,78 +576,6 @@
    "url": "https://himalayas.app/companies/altisales/jobs/revops-systems-specialist-latam-remote?utm_source=api",
    "descripcion": "About the companyAltiSales is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, technology, and operations of Sales and Sales Development.",
    "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "E-commerce Manager",
-   "empresa": "Remote VA",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:34:06+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remote-va/jobs/e-commerce-manager?utm_source=api",
-   "descripcion": "Marketplace Director Location: Remote Type: Full-Time, 9:00 AM - 5:00 PM New York (Eastern), Mon – Fri (5 days) Compensation: Competitive salary + performance incentives A growing U.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Account Executive, SMB & API Sales",
-   "empresa": "OneClick Data, Inc.",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:19:00+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/oneclick-data-inc/jobs/senior-account-executive-smb-api-sales?utm_source=api",
-   "descripcion": "About the Company Founded in 2018, OneClick Code is a fast-growing technology company transforming the roofing, construction, and insurance industries.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Graphic Designer",
-   "empresa": "Tugi Tark",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T03:58:56+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/tugi-tark/jobs/graphic-designer?utm_source=api",
-   "descripcion": "About us:At Tugi Tark, we're redefining customer support with a platform crafted by professionals who truly get it.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Remote Sales Rep – Earn up to $450/Meeting, Free AI Training & Certification",
-   "empresa": "Sellfire",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T03:33:51+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/sellfire/jobs/remote-sales-rep-earn-up-to-450-meeting-free-ai-training-certification-5400934181?utm_source=api",
-   "descripcion": "Remote, international · Independent contractor · Part-time or full-time, on your schedule · Up to $450/meeting in USD, uncapped Call US businesses for fast-growing software companies like FieldPulse, Squire and UpEquity, and earn up to $450 (paid in USD) for every meeting that happens.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Senior CRM Data Analyst",
-   "empresa": "Massive Rocket",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T03:33:25+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/massive-rocket/jobs/senior-crm-data-analyst?utm_source=api",
-   "descripcion": "Who Are Massive Rocket? Massive Rocket is a rapidly scaling Braze and Snowflake agency on a mission to transform how digital marketing, product, and engineering teams connect.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sr. Full-Stack Software Engineer, Remote",
-   "empresa": "Xperteez Technology",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T03:29:25+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-remote-6677362412?utm_source=api",
-   "descripcion": "Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible, including weekends if desired as long as there is activity.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   },
   {
