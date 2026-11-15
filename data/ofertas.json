@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T09:32:11.799796+00:00",
+ "actualizado": "2026-11-15T16:26:36.113214+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -14,6 +14,78 @@
   "publicadas": 51
  },
  "ofertas": [
+  {
+   "titulo": "AI Trainer (SWE) | Remote - Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T15:34:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
+   "descripcion": "Job DescriptionLocation: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Applied AI Engineer - LLMs & Agentic Systems | Remote Mexico/LATAM,",
+   "empresa": "DaCodes",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T15:12:21+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/dacodes/jobs/applied-ai-engineer-llms-agentic-systems-remote-mexico-latam?utm_source=api",
+   "descripcion": "Sobre la oportunidadBuscamos un/a Applied AI Engineer para integrarse al equipo tecnológico de una fintech que desarrolla soluciones para transferencias internacionales y remesas, con operación principalmente entre Estados Unidos, México y Centroamérica.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Phone Support Specialist, Contract",
+   "empresa": "PetDesk",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T13:53:20+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/petdesk/jobs/phone-support-specialist-contract?utm_source=api",
+   "descripcion": "About this Role:PetDesk is looking for a contract Phones Support Specialist to give remote technical support to veterinary clinics that use its cloud VoIP phone system.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Customer Reputation Specialist",
+   "empresa": "TripleTen",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T11:48:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/tripleten/jobs/customer-reputation-specialist-3082366366?utm_source=api",
+   "descripcion": "DescriptionTripleTenis an award-winning online school among technology bootcamps.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Internship - Law, Policy, and Research - Spring 2027",
+   "empresa": "Outright International",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T11:42:29+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/outright-international/jobs/internship-law-policy-and-research-spring-2027?utm_source=api",
+   "descripcion": "Outright is currently seeking an internationally minded intern for our Law, Policy, and Research program.",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "AI Trainer (ML Engineering) | Remote - Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T10:32:20+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544?utm_source=api",
+   "descripcion": "Job DescriptionLocation: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Freelance AI Artist - Image & Brand",
    "empresa": "Kirin",
@@ -503,78 +575,6 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/pearster/jobs/forward-deployed-engineer-remote-latam?utm_source=api",
    "descripcion": "Spoiler: This is where your next big move begins.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Full-Stack Node Engineer",
-   "empresa": "Jobsity",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T06:34:42+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/jobsity/jobs/senior-full-stack-node-engineer?utm_source=api",
-   "descripcion": "Who We AreAt Jobsity, we believe great talent should not be limited by geography.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Email Retention Marketing Specialist",
-   "empresa": "Floowi",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T06:18:29+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/floowi/jobs/email-retention-marketing-specialist?utm_source=api",
-   "descripcion": "Floowi connects top LATAM professionals with leading U.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Short-Form Video Editor",
-   "empresa": "Entrepreneur Cooperative",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T06:00:08+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/short-form-video-editor?utm_source=api",
-   "descripcion": "**PLEASE SUBMIT YOUR CV IN ENGLISH **Location: Remote – Latin America Work Arrangement: Fully Remote Employment Type: Full-Time Independent Contractor Number of Openings: 1 Position Industry: Creative Agency / Branding / Social Media Compensation: $1,500–$2,000 USD per month Schedule: Monday–Friday ",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Interior Design Assistant (Revit and 3Ds Max)",
-   "empresa": "Remote VA",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T05:07:18+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remote-va/jobs/interior-design-assistant-revit-and-3ds-max-6608256739?utm_source=api",
-   "descripcion": "Interior Design Assistant (Revit & 3Ds Max)Position Overview We are seeking a detail-oriented and creative Interior Design Assistant with strong skills in Revit and 3Ds Max.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Customer Support Lead (part-time, equity-only)",
-   "empresa": "Qompyl",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T05:05:21+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/qompyl/jobs/customer-support-lead-part-time-equity-only?utm_source=api",
-   "descripcion": "About QompylEvery trading strategy starts with a “what if?",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Meliore Foundation | CEO Office Associate",
-   "empresa": "Climate Dialogue Japan",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T05:03:02+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/climate-dialogue-japan/jobs/meliore-foundation-ceo-office-associate?utm_source=api",
-   "descripcion": "We are looking for a proactive and detail-oriented CEO Office Associate with strong operational drive who wants to play a vital role in enabling our mission on climate solutions.",
    "rubro": "Tecnología",
    "primer_empleo": false
   },
