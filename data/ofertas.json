@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T22:23:18.665158+00:00",
+ "actualizado": "2026-11-15T09:32:11.799796+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -14,6 +14,66 @@
   "publicadas": 51
  },
  "ofertas": [
+  {
+   "titulo": "Freelance AI Artist - Image & Brand",
+   "empresa": "Kirin",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T03:40:30+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/kirin/jobs/freelance-ai-artist-image-brand-8309043318?utm_source=api",
+   "descripcion": "We’re looking for someone who lives and breathes AI image and video gen You should know the current image/video gen landscape cold, understand how to coax specific looks out of different systems, and be able to turn loose ideas into production-quality images and videos fast.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Link Builder (B2B & B2C) ",
+   "empresa": "Keepgo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T01:19:01+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/keepgo/jobs/link-builder-b2b-b2c?utm_source=api",
+   "descripcion": "Keepgo is a global mobile internet provider offering innovative products and solutions based on virtual technologies, primarily eSIM.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Remote Software Engineer, AI Code Review (LATAM, contract)",
+   "empresa": "RustLabs",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-15T01:19:00+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/rustlabs/jobs/remote-software-engineer-ai-code-review-latam-contract?utm_source=api",
+   "descripcion": "We're hiring experienced software engineers in Argentina, Brazil, Chile, Colombia and Peru for a remote contract evaluating AI coding models for frontier AI labs.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Paid Social Specialist",
+   "empresa": "Darkroom",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T23:43:33+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/darkroom/jobs/senior-paid-social-specialist?utm_source=api",
+   "descripcion": "About DarkroomDarkroom is the leading next-generation growth marketing firm engineering the brands of tomorrow.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Operations Associate",
+   "empresa": "Pavago",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-14T23:22:46+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pavago/jobs/operations-associate?utm_source=api",
+   "descripcion": "Operations Associate – HubSpot CRM, Deal Pipeline & Excel Reporting | Remote Position Type: Full-Time, Remote Working Hours: U.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Senior Officer, Conserving the Pantanal and Gran Chaco Wildlands",
    "empresa": "The Pew Charitable Trusts",
@@ -516,66 +576,6 @@
    "url": "https://himalayas.app/companies/climate-dialogue-japan/jobs/meliore-foundation-ceo-office-associate?utm_source=api",
    "descripcion": "We are looking for a proactive and detail-oriented CEO Office Associate with strong operational drive who wants to play a vital role in enabling our mission on climate solutions.",
    "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Vice President, Products — Diodes",
-   "empresa": "OPSWAT",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:54:31+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/opswat/jobs/vice-president-products-diodes?utm_source=api",
-   "descripcion": "OPSWAT, a global leader in IT, OT, and ICS critical infrastructure cybersecurity, delivers an end-to-end platform that gives public and private sector organizations and enterprises the critical advantage needed to protect their complex networks, secure their devices, and ensure compliance.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Operations Lead | Uplift",
-   "empresa": "Boosta",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:50:08+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/boosta/jobs/operations-lead-uplift?utm_source=api",
-   "descripcion": "Hi! We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Security Engineer",
-   "empresa": "Securitize",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:48:15+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/securitize/jobs/senior-security-engineer?utm_source=api",
-   "descripcion": "Securitize, the leader in tokenizing real-world assets with $5B+ AUM (as of November 11, 2026), is bringing the world on-chain through tokenized funds in partnership with top-tier asset managers, such as Apollo, BlackRock, Hamilton Lane, KKR, and others.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior QA",
-   "empresa": "Ryz Labs",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:46:25+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/ryz-labs/jobs/senior-qa?utm_source=api",
-   "descripcion": "Our client is a SaaS company building quality and compliance software for highly regulated industries such as life sciences.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "RevOps & Systems Specialist (LatAm, Remote)",
-   "empresa": "AltiSales",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-14T04:43:56+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/altisales/jobs/revops-systems-specialist-latam-remote?utm_source=api",
-   "descripcion": "About the companyAltiSales is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, technology, and operations of Sales and Sales Development.",
-   "rubro": "Comercio y ventas",
    "primer_empleo": false
   },
   {
