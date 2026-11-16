@@ -1,19 +1,55 @@
 {
- "actualizado": "2026-11-16T10:28:46.951497+00:00",
+ "actualizado": "2026-11-16T16:59:39.445363+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": "error: HTTP Error 403: Forbidden"
+  "Get on Board": 19
  },
  "resumen": {
-  "encontradas": 60,
-  "vencidas_quitadas": 6,
+  "encontradas": 79,
+  "vencidas_quitadas": 22,
   "duplicadas_quitadas": 1,
-  "publicadas": 53
+  "publicadas": 56
  },
  "ofertas": [
+  {
+   "titulo": "Accountant Analyst",
+   "empresa": "Adaptive Teams",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-16T15:50:30+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/adaptive-teams/jobs/accountant-analyst?utm_source=api",
+   "descripcion": "Love making the numbers add up?  Take ownership of the full accounting cycle and make a real impact.",
+   "rubro": "Administración",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Dental Virtual Assistant | LATAM",
+   "empresa": "HireHawk",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-16T13:14:23+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hirehawk/jobs/dental-virtual-assistant-latam?utm_source=api",
+   "descripcion": "All candidates from LATAM are welcome to apply!!!",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Bilingual Virtual Assistant",
+   "empresa": "HireBoost",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-16T11:19:48+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hireboost/jobs/bilingual-virtual-assistant?utm_source=api",
+   "descripcion": "This is a remote position. ABOUT THE COMPANYThis company is an established mortgage brokerage that helps individuals and families find mortgage solutions for purchasing homes, refinancing, and other financing needs.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Healthcare SEO Specialist (BBS955)",
    "empresa": "Hire Overseas",
@@ -603,39 +639,39 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Creative Quality & Compliance Specialist",
-   "empresa": "Power Digital Marketing",
+   "titulo": "Infosec Analyst I",
+   "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
    "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:13:26+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/power-digital-marketing/jobs/creative-quality-compliance-specialist-9961468340?utm_source=api",
-   "descripcion": "Who We Are:Power Digital is an AI-Native Growth Firm built at the intersection of world-class talent and proprietary technology.",
+   "fecha": "2026-11-13T15:01:55+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/infosec-analyst-i-lemontech-remote",
    "rubro": "Tecnología",
+   "descripcion": "Formación:  Titulado/a o egresado/a de Ingeniería Informática, Seguridad de la Información o carreras afines.   Experiencia:  0 a 2 años de experiencia en seguridad de la información, GRC, auditoría TI o roles similares.   Conocimientos técnicos:  Fundamentos comprobables de ISO 27001, buenas prá",
    "primer_empleo": false
   },
   {
-   "titulo": "E-Commerce Operations Manager | LATAM",
-   "empresa": "HireHawk",
+   "titulo": "International Business Development Lead (B2B Sales)",
+   "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
    "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:13:06+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hirehawk/jobs/e-commerce-operations-manager-latam?utm_source=api",
-   "descripcion": "All candidates from LATAM are welcome to apply!!!",
+   "fecha": "2026-11-12T23:05:16+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/international-business-development-lead-b2b-sales-sum-trading-remote",
    "rubro": "Tecnología",
+   "descripcion": "Mínimo 3 años de experiencia comprobable en ventas B2B y desarrollo comercial.   Dominio avanzado del inglés, hablado y escrito (indispensable).   Experiencia comprobable utilizando redes sociales como herramientas comerciales y de generación de ventas.  Experiencia en estrategias de prospección d",
    "primer_empleo": false
   },
   {
-   "titulo": "🌍 Sr. Full-Stack Software Engineer, Remote- Contract",
-   "empresa": "Xperteez Technology",
+   "titulo": "Sr. QA Automation Engineer",
+   "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
    "modalidad": "Remoto",
-   "fecha": "2026-11-15T21:54:26+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-remote-contract?utm_source=api",
-   "descripcion": "Role Title: Full-Stack Software Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired as long as there is activity.",
+   "fecha": "2026-11-12T00:02:00+00:00",
+   "fuente": "Get on Board",
+   "url": "https://www.getonbrd.com/jobs/sr-qa-automation-engineer-improving-remote",
    "rubro": "Tecnología",
+   "descripcion": "5–7+ years of experience as a Test Automation Engineer.   Strong hands-on experience with  Selenium and Playwright .  Experience developing and maintaining  test automation frameworks .  Proficiency in at least one programming language such as  Java, Python, or C#  for building automation tools a",
    "primer_empleo": false
   },
   {
