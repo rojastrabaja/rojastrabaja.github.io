@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T16:59:39.445363+00:00",
+ "actualizado": "2026-11-16T22:35:18.774124+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,9 +9,9 @@
  },
  "resumen": {
   "encontradas": 79,
-  "vencidas_quitadas": 22,
+  "vencidas_quitadas": 34,
   "duplicadas_quitadas": 1,
-  "publicadas": 56
+  "publicadas": 44
  },
  "ofertas": [
   {
@@ -492,150 +492,6 @@
    "url": "https://himalayas.app/companies/brightvision/jobs/finnish-speaking-sdr-fully-remote?utm_source=api",
    "descripcion": "Are looking for a 100% fully remote role where you can grow and take on responsibilities from your home office?",
    "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Bilingual Sales Development Representative - Latin America (Remote Contractor)",
-   "empresa": "Metro Vein Centers",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T00:22:01+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/metro-vein-centers/jobs/bilingual-sales-development-representative-latin-america-remote-contractor?utm_source=api",
-   "descripcion": "Metro Vein Centers is a rapidly growing healthcare practice specializing in state-of-the-art vein treatments.",
-   "rubro": "Agro",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Expert Talent Pool, Safety Testing (Expert)",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T00:02:17+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-safety-testing-expert?utm_source=api",
-   "descripcion": "About the RoleJoin an expert pool supporting AI safety testing projects.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Devops - Azure, Docker and Kubernetes.",
-   "empresa": "Jalasoft",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T23:50:54+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/jalasoft/jobs/devops-azure-docker-and-kubernetes?utm_source=api",
-   "descripcion": "We are looking for a DevOps Engineer to join our team and support the development, deployment, and maintenance of our applications and cloud infrastructure.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "🌍 Medical Doctor, Remote- Contract",
-   "empresa": "Xperteez Technology",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T23:27:40+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/medical-doctor-remote-contract?utm_source=api",
-   "descripcion": "Role Title: Medical Doctor Role type: Contract, part-time, project-based Location: Remote, worldwide Required Skills:• Medical knowledge • Clinical reasoning • Analytical skills • Attention to detail • Evidence-based medicine • Critical assessment • Clear communication • Medical information evaluati",
-   "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Performance Creative Editor (Contract)",
-   "empresa": "Everyday Dose Inc.",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T23:21:20+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/everyday-dose-inc/jobs/performance-creative-editor-contract?utm_source=api",
-   "descripcion": "We sell mushroom coffee direct to consumers.  Paid ads on Meta and Google are how we grow, and the creative is the variable that decides whether it works.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Technical Support Engineer (m/f/d)",
-   "empresa": "Ververica GmbH",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T23:18:12+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/ververica-gmbh/jobs/technical-support-engineer-m-f-d?utm_source=api",
-   "descripcion": "Ververica is the original creator of Apache Flink® and remains a core contributor to it.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Remote Appointment Setter",
-   "empresa": "CLARK ENERGIES",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T23:07:24+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clark-energies/jobs/remote-appointment-setter?utm_source=api",
-   "descripcion": "Clark Energies is seeking professional Remote Appointment Setters who demonstrate discipline, strong communication skills, and a commitment to long-term career growth.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "SEO Manager | Remote | LATAM Only | 90008",
-   "empresa": "Remote Talent LATAM",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:52:07+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/seo-manager-remote-latam-only-90008?utm_source=api",
-   "descripcion": "About UsAt Remote Talent LATAM, we connect top Latin American talent with leading companies.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Full Stack AI Developer",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:37:00+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/full-stack-ai-developer-6616945180?utm_source=api",
-   "descripcion": "Position Type: Full-Time | Remote Working Hours: Must overlap at least 4 hours with U.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Dental Manufacturing Assistant",
-   "empresa": "Pearl Talent",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:30:06+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pearl-talent/jobs/dental-manufacturing-assistant?utm_source=api",
-   "descripcion": "Work From Anywhere in LATAM or the Philippines Work Schedule: EST | 9:00 AM – 5:00 PM, Monday to Friday About Pearl TalentPearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Video Editor (Short-form social, paid ads, UGC) - LATAM",
-   "empresa": "LumiMeds",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:28:47+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/lumimeds/jobs/video-editor-short-form-social-paid-ads-ugc-latam?utm_source=api",
-   "descripcion": "About LumiMedsLumiMeds is a fast-growing U. S. -based telehealth startup focused on weight management and long-term metabolic health.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Video Editor",
-   "empresa": "Content Mindset",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-15T22:24:31+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/content-mindset/jobs/ai-video-editor?utm_source=api",
-   "descripcion": "Hi there!  Do not apply until you have read this entire job posting.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   },
   {
