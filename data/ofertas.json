@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T09:48:45.865388+00:00",
+ "actualizado": "2026-11-17T16:50:42.514377+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,83 @@
  },
  "resumen": {
   "encontradas": 79,
-  "vencidas_quitadas": 34,
-  "duplicadas_quitadas": 1,
-  "publicadas": 44
+  "vencidas_quitadas": 36,
+  "duplicadas_quitadas": 0,
+  "publicadas": 43
  },
  "ofertas": [
+  {
+   "titulo": "Web Designer",
+   "empresa": "Avam",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T16:19:26+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/avam/jobs/web-designer?utm_source=api",
+   "descripcion": "Avam is an applied and materials sciences company developing biology, chemistry, and materials science products for testing, research, manufacturing, and cleaner energy applications.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Product Specialist",
+   "empresa": "Avam",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T16:05:22+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/avam/jobs/product-specialist?utm_source=api",
+   "descripcion": "Avam develops biology, chemistry, and materials science products that support testing, research, manufacturing, and cleaner-energy applications.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Creative Strategist",
+   "empresa": "Flowpouch",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T14:17:35+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/flowpouch/jobs/senior-creative-strategist?utm_source=api",
+   "descripcion": "Who we areFlow Pouch makes functional mushroom pouches.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Account Manager",
+   "empresa": "RevX",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T13:59:20+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/revx/jobs/senior-account-manager?utm_source=api",
+   "descripcion": "Senior Account ManagerRemote in ArgentinaAbout RevXRevX runs mobile programmatic advertising campaigns (app retargeting, user acquisition, and performance branding) to retain and accelerate revenue.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Backend Engineer (Platform Team)",
+   "empresa": "Twindo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T12:49:56+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/twindo/jobs/senior-backend-engineer-platform-team?utm_source=api",
+   "descripcion": "Twindo is at the forefront of revolutionizing the remodeling, architecture, and interior design industry through cutting-edge AI and computer vision technology.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "1193 - Bookkeeping Assistant (QuickBooks & Payroll)",
+   "empresa": "GoFasti",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T12:17:06+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/gofasti/jobs/1193-bookkeeping-assistant-quickbooks-payroll?utm_source=api",
+   "descripcion": "We Make Remote Work Remarkable • TopTalent from LatAm Hello!",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
   {
    "titulo": "SEO & GEO Specialist",
    "empresa": "Flowpouch",
@@ -183,30 +255,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Accountant - Part time",
-   "empresa": "Entrepreneur Cooperative",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T07:49:10+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/accountant-part-time-2864113754?utm_source=api",
-   "descripcion": "★ PLEASE SUBMIT YOUR CV IN ENGLISH ★ Accountant Location: Remote - Colombia Work Arrangement: This is a fully remote (telecommute) position.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Graphic and Editorial Design Expert, Remote",
-   "empresa": "Xperteez Technology",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T06:56:32+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/graphic-and-editorial-design-expert-remote?utm_source=api",
-   "descripcion": "Role Title: Graphic and Editorial Design Expert Role Type: Contract Location: Remote Opportunity SnapshotLocation: Fully remote, worldwide You’ll need: Professional experience designing for print, web or publications for a company, studio, publisher or client Your tasks: Review designs and briefs, j",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Senior Full Stack Engineer (.NET/React) - AI Services",
    "empresa": "Opinov8",
    "localidad": "Remoto",
@@ -227,6 +275,18 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/accounting-assistant-quickbooks-online?utm_source=api",
    "descripcion": "Location:100% Remote (LATAM) –Supporting US ClientsEmployment Type:Independent Contractor (Full-Time)Compensation:$1,500 USD / month About the Role:We are looking for a reliable, detail-orientedBilingual Bookkeeperwith hands-on experience inQuickBooks Onlineto support the daily financial operations ",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Accountant - Part Time",
+   "empresa": "Entrepreneur Cooperative",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-16T06:30:54+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/accountant-part-time?utm_source=api",
+   "descripcion": "★ PLEASE SUBMIT YOUR CV IN ENGLISH ★ Accountant Location: Remote - Philippines Work Arrangement: This is a fully remote (telecommute) position.",
    "rubro": "Administración",
    "primer_empleo": false
   },
@@ -351,18 +411,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Expert Talent Pool, Data Operations (Expert, 5+ Years)",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T02:49:12+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-data-operations-expert-5-years?utm_source=api",
-   "descripcion": "About the RoleLead data operations for teams developing advanced AI models, owning the quality of datasets used for training and evaluation.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Preventive Cardiologist | Remote - Contract",
    "empresa": "Xperteez Technology",
    "localidad": "Remoto",
@@ -447,54 +495,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Valuation Administrator",
-   "empresa": "World Business Lenders",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T01:46:24+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/world-business-lenders/jobs/valuation-administrator?utm_source=api",
-   "descripcion": "Overview• World Business Lenders (WBL) is a privately held portfolio lender specializing in real estate-secured business loans for underserved businesses.",
-   "rubro": "Administración",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Expert Talent Pool, Physical AI (5+ Years)",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T01:22:47+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-physical-ai-5-years?utm_source=api",
-   "descripcion": "About the RoleLead physical AI data capture projects that help robots learn from human movement and manipulation.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Physical AI Data Collection Associate",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T01:15:47+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/physical-ai-data-collection-associate?utm_source=api",
-   "descripcion": "About the RoleJoin a team supporting physical AI projects by collecting high-quality data from real-world human movement and manipulation.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
-  },
-  {
-   "titulo": "Expert Talent Pool, Evals and Benchmarks",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T01:03:09+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-evals-and-benchmarks?utm_source=api",
-   "descripcion": "About the RoleJoin a network of senior evaluation experts supporting AI research projects.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Infosec Analyst I",
    "empresa": "Empresa en Get on Board",
    "localidad": "Remoto",
@@ -528,18 +528,6 @@
    "url": "https://www.getonbrd.com/jobs/sr-qa-automation-engineer-improving-remote",
    "rubro": "Tecnología",
    "descripcion": "5–7+ years of experience as a Test Automation Engineer.   Strong hands-on experience with  Selenium and Playwright .  Experience developing and maintaining  test automation frameworks .  Proficiency in at least one programming language such as  Java, Python, or C#  for building automation tools a",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior React Full-stack Developer",
-   "empresa": "lemon.io",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-10T13:24:32+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/lemon-io/jobs/senior-react-full-stack-developer?utm_source=api",
-   "descripcion": "helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest.",
-   "rubro": "Tecnología",
    "primer_empleo": false
   }
  ]
