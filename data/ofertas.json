@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T22:35:18.774124+00:00",
+ "actualizado": "2026-11-17T09:48:45.865388+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -14,6 +14,90 @@
   "publicadas": 44
  },
  "ofertas": [
+  {
+   "titulo": "SEO & GEO Specialist",
+   "empresa": "Flowpouch",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T09:10:43+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist?utm_source=api",
+   "descripcion": "Who we areFlow Pouch makes functional mushroom pouches.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Sales Growth Business Partner (Referral Partner, Commission-Based)",
+   "empresa": "Flowmingo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T05:01:11+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/flowmingo/jobs/sales-growth-business-partner-referral-partner-commission-based?utm_source=api",
+   "descripcion": "This is a referral partner role paid on commission, not a salaried job.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Talent Acquisition Business Partner (Referral Partner, Commission-Based)",
+   "empresa": "Flowmingo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T05:01:11+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/flowmingo/jobs/talent-acquisition-business-partner-referral-partner-commission-based?utm_source=api",
+   "descripcion": "This is a referral partner role paid on commission, not a salaried job.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Marketing Growth Business Partner (Referral Partner, Commission-Based)",
+   "empresa": "Flowmingo",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T05:00:14+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/flowmingo/jobs/marketing-growth-business-partner-referral-partner-commission-based?utm_source=api",
+   "descripcion": "This is a referral partner role paid on commission, not a salaried job.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Business Community Manager — Founder Network (Remote)",
+   "empresa": "Resilio Partners",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T05:00:14+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/resilio-partners/jobs/business-community-manager-founder-network-remote?utm_source=api",
+   "descripcion": "IMPORTANT: DO NOT try to contact us in other platforms/sources to get our attention during this process.",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Clinical Research Associate II",
+   "empresa": "ICON",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T04:27:15+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/iconplc/jobs/clinical-research-associate-ii-4640024711?utm_source=api",
+   "descripcion": "Clinical Research Associate IIAt ICON Strategic Solutions, you will work in a sponsor-dedicated model, supported by ICON’s global expertise.",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Growth Lead (Acquisition)",
+   "empresa": "MyArchitectAI",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-17T04:16:48+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/myarchitectai/jobs/growth-lead-acquisition?utm_source=api",
+   "descripcion": "MyArchitectAI turns 3D designs into photorealistic architectural and interior design renders.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
   {
    "titulo": "Accountant Analyst",
    "empresa": "Adaptive Teams",
@@ -183,18 +267,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Expert Talent Pool, Annotation Associate",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T03:58:31+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-associate?utm_source=api",
-   "descripcion": "About the RoleJoin an expert network supporting AI training projects as an annotation specialist.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": true
-  },
-  {
    "titulo": "CRM Microsoft Dynamics Consultant SSr (Customer Service)",
    "empresa": "Axxon Consulting",
    "localidad": "Remoto",
@@ -241,18 +313,6 @@
    "descripcion": "About the RoleJoin an expert network supporting AI human-data projects focused on agents and reinforcement learning.",
    "rubro": "Tecnología",
    "primer_empleo": false
-  },
-  {
-   "titulo": "Data Operations Associate, Expert Talent Pool",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T03:20:59+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/data-operations-associate-expert-talent-pool?utm_source=api",
-   "descripcion": "About the RoleJoin a network of data operations specialists supporting human-data projects for AI research.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
   },
   {
    "titulo": "Commercial Valuation Team Lead",
@@ -303,18 +363,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Expert Annotation Specialist",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T02:48:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-annotation-specialist?utm_source=api",
-   "descripcion": "About the RoleJoin an expert team supporting advanced AI research through complex, multimodal data annotation.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Preventive Cardiologist | Remote - Contract",
    "empresa": "Xperteez Technology",
    "localidad": "Remoto",
@@ -349,18 +397,6 @@
    "descripcion": "About the RoleJoin a flexible, project-based expert talent pool contributing to AI training work.",
    "rubro": "Tecnología",
    "primer_empleo": false
-  },
-  {
-   "titulo": "Safety Testing Associate",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T02:13:55+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/safety-testing-associate?utm_source=api",
-   "descripcion": "About the RoleJoin an expert network supporting AI model evaluation projects as a safety tester.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
   },
   {
    "titulo": "Fullstack .NET & Vue.js Developer - LATAM",
@@ -456,42 +492,6 @@
    "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-evals-and-benchmarks?utm_source=api",
    "descripcion": "About the RoleJoin a network of senior evaluation experts supporting AI research projects.",
    "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Expert Talent Pool, Feedback and Alignment Associate",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T00:56:47+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-feedback-and-alignment-associate?utm_source=api",
-   "descripcion": "About the RoleJoin a project-based expert network supporting AI model evaluation and improvement.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Expert Talent Pool, Generation and Writing (Senior)",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T00:44:57+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-generation-and-writing-senior?utm_source=api",
-   "descripcion": "About the RoleJoin a remote expert contributor pool supporting AI training projects.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Finnish speaking SDR - (Fully remote)",
-   "empresa": "Brightvision",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-16T00:29:03+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/brightvision/jobs/finnish-speaking-sdr-fully-remote?utm_source=api",
-   "descripcion": "Are looking for a 100% fully remote role where you can grow and take on responsibilities from your home office?",
-   "rubro": "Comercio y ventas",
    "primer_empleo": false
   },
   {
