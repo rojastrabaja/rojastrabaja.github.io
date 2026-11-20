@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T16:46:18.013816+00:00",
+ "actualizado": "2026-11-20T22:33:32.585641+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,107 @@
  },
  "resumen": {
   "encontradas": 80,
-  "vencidas_quitadas": 29,
+  "vencidas_quitadas": 31,
   "duplicadas_quitadas": 0,
-  "publicadas": 51
+  "publicadas": 49
  },
  "ofertas": [
+  {
+   "titulo": "Full Stack Developer - Django/React (LATAM)",
+   "empresa": "iDelsoft",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T19:52:13+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/idelsoft/jobs/full-stack-developer-django-react-latam?utm_source=api",
+   "descripcion": "Full-Time | Remote | 8am – 5pm EST We're hiring a Full Stack Engineer to build mission-critical software for a highly regulated financial services market.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Video Editor",
+   "empresa": "WOW Remote Teams",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T19:04:26+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/wow-remote-teams/jobs/video-editor-746434626?utm_source=api",
+   "descripcion": "This is a remote position.  Our client is looking for aPart-Time Video Editorto join a creative production studio specializing in sports, outdoor, and social-first content.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Learning Operations Specialist",
+   "empresa": "HireBoost",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T19:01:33+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hireboost/jobs/learning-operations-specialist?utm_source=api",
+   "descripcion": "This is a remote position.  About the company This education technology platform transforms authentic, real-world content from trusted sources into instruction-ready materials tailored for K–12 classrooms.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Sourcing Specialist (Private Aviation)",
+   "empresa": "Pavago",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T17:56:26+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pavago/jobs/sourcing-specialist-private-aviation?utm_source=api",
+   "descripcion": "Position Type: Full-Time | Remote Working Hours: U.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Middle Product Designer",
+   "empresa": "Helpware",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T17:02:33+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/helpware/jobs/middle-product-designer?utm_source=api",
+   "descripcion": "About Project This is an early-stage company building an AI platform for the legal industry.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Principal Java Software Engineer - Ciklum",
+   "empresa": "Helpware",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T16:46:28+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/helpware/jobs/senior-principal-java-software-engineer-ciklum?utm_source=api",
+   "descripcion": "Principal Software Engineer Key Responsibilities: Own architecture across product and platform Define and evolve platform and application architecture, including service boundaries, integration patterns, data modeling, and API standards.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Bookkeeper",
+   "empresa": "Pavago",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T16:20:56+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pavago/jobs/senior-bookkeeper-4562482353?utm_source=api",
+   "descripcion": "Position Type: Full-Time | Remote Working Hours: 9:00 AM–5:00 PM U.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Full-Stack Software Engineer",
+   "empresa": "Pavago",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-20T16:20:23+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pavago/jobs/full-stack-software-engineer?utm_source=api",
+   "descripcion": "Full-Stack Software Engineer – Remote | U. S.  Hours Position Type: Full-Time, Remote Working Hours: U.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Associate I, TMF Operations",
    "empresa": "Worldwide Clinical Trials",
@@ -503,126 +599,6 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/planitroi-llc/jobs/senior-recruiter-temporary-position?utm_source=api",
    "descripcion": "About PlanITROI PlanITROI is an IT lifecycle services company.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Client Partner  - X (ex-Twitter)",
-   "empresa": "Uplift People Consulting",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T03:20:40+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/uplift-people-consulting/jobs/senior-client-partner-x-ex-twitter?utm_source=api",
-   "descripcion": "About Uplift Uplift is a dynamic agency specializing in global talent search, covering EMEA, LATAM, USA, and APAC.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "E-commerce Product Manager",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T03:17:22+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/e-commerce-product-manager-1276459446?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Recruitment Coordinator",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T03:15:09+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-recruitment-coordinator?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Internal Recruiter – High-Volume Staffing",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T03:14:02+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/internal-recruiter-high-volume-staffing-8545935742?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "AI Researcher / Engineer",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T03:04:32+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/ai-researcher-engineer?utm_source=api",
-   "descripcion": "About the Role Join a small, high-impact team developing synthetic-media detection and forensic tools for fraud and trust teams.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "1196 - Offensive Security Tester",
-   "empresa": "GoFasti",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T02:55:08+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/gofasti/jobs/1196-offensive-security-tester?utm_source=api",
-   "descripcion": "We Make Remote Work Remarkable • TopTalent from LatAm Hello!",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Corporate Finance & Financial Modeling Expert – Remote (Worldwide)",
-   "empresa": "RemoteJobsOne",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T02:50:57+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remotejobsone/jobs/corporate-finance-financial-modeling-expert-remote-worldwide?utm_source=api",
-   "descripcion": "IMPORTANT: after you apply, please check your email.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Editor",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T02:45:48+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-editor-3280969166?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Content Director",
-   "empresa": "Hire Hangar",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T02:37:14+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hire-hangar/jobs/content-director-5948164660?utm_source=api",
-   "descripcion": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Platform Engineer",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T02:36:17+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/platform-engineer-9216143221?utm_source=api",
-   "descripcion": "About the Role Join a logistics technology team building AI-powered tools for sea and air freight operations.",
    "rubro": "Tecnología",
    "primer_empleo": false
   }
