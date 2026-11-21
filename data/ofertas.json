@@ -1,19 +1,187 @@
 {
- "actualizado": "2026-11-21T16:32:03.826544+00:00",
+ "actualizado": "2026-11-21T22:26:56.678551+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 20
+  "Get on Board": "error: HTTP Error 403: Forbidden"
  },
  "resumen": {
-  "encontradas": 80,
-  "vencidas_quitadas": 26,
+  "encontradas": 60,
+  "vencidas_quitadas": 4,
   "duplicadas_quitadas": 0,
-  "publicadas": 54
+  "publicadas": 56
  },
  "ofertas": [
+  {
+   "titulo": "Senior Analytics Specialist",
+   "empresa": "Qventus",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T22:19:35+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/qventus/jobs/senior-analytics-specialist?utm_source=api",
+   "descripcion": "On this journey for over 12 years, Qventus is leading the transformation of healthcare.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Product Engineer (Node)",
+   "empresa": "ActiveProspect",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T21:58:38+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/activeprospect/jobs/senior-product-engineer-node-7083396713?utm_source=api",
+   "descripcion": "Senior Product Engineer, LeadConduit Company Overview ActiveProspect is on a mission to make consent-based marketing the best channel for online customer acquisition.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Account Executive – B2B SaaS (US Market)",
+   "empresa": "VAme Ltd",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T21:51:04+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/vame-ltd/jobs/senior-account-executive-b2b-saas-us-market?utm_source=api",
+   "descripcion": "We are looking for an experienced Senior Account Executive who knows how to turn qualified sales opportunities into paying customers.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Business Analyst – Fixed Income / Interest Rate Swaps",
+   "empresa": "Talan",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T21:27:51+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/talan/jobs/senior-business-analyst-fixed-income-interest-rate-swaps-134506563?utm_source=api",
+   "descripcion": "About the Role We are looking for an experienced Senior Business Analyst to join the team and contribute to a key project within the Fixed Income markets.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "1037 - Analytics Engineer (SQL/dbt/Snowflake/Python) · Senior · Remote · ARG",
+   "empresa": "Darwoft",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T21:16:37+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/darwoft/jobs/1037-analytics-engineer-sql-dbt-snowflake-python-senior-remote-arg?utm_source=api",
+   "descripcion": "Senior Analytics Engineer (SQL/dbt/Snowflake/Python) · Remote · Argentina Opening: 1037 Ubicación: Argentina, preferentemente Córdoba o Buenos Aires Modalidad: Remota, con encuentros presenciales ocasionales en oficinas de Córdoba o Buenos Aires Contratación: Relación de dependencia con Darwoft Seni",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Asesoramiento en monetización (YouTube y otras redes sociales)",
+   "empresa": "Institute for War & Peace Reporting",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T21:10:32+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/institute-for-war-peace-reporting/jobs/asesoramiento-en-monetizacion-youtube-y-otras-redes-sociales?utm_source=api",
+   "descripcion": "El Institute for War & Peace Reporting (IWPR) es una organización independiente sin fines de lucro que trabaja para empoderar a las voces locales en primera línea, promoviendo cambios positivos en contextos de conflicto, crisis o transición en todo el mundo.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Patient Photo Outreach Coordinator (Job ID: ROBRIC12)",
+   "empresa": "InsideOutVAS",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T20:19:10+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/insideoutvas/jobs/patient-photo-outreach-coordinator-job-id-robric12?utm_source=api",
+   "descripcion": "🌟 Exciting Remote Opportunity!  We're Hiring a Patient Photo Outreach Coordinator!",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Senior Business Analyst - M&A (100% remote Worldwide)",
+   "empresa": "Tether Operations Limited",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T20:05:31+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/tether-operations-limited/jobs/senior-business-analyst-m-a-100-remote-worldwide-9736407866?utm_source=api",
+   "descripcion": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Admin Assistant (Job ID: ROBRIC13)",
+   "empresa": "InsideOutVAS",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T19:27:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/insideoutvas/jobs/admin-assistant-job-id-robric13?utm_source=api",
+   "descripcion": "🌟 Exciting Remote Opportunity!  We're Hiring an Administrative Assistant!",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Gravador(a) de Vídeos com Smartphone - Remote",
+   "empresa": "YO AI Labs",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T19:03:44+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/gravador-a-de-videos-com-smartphone-remote?utm_source=api",
+   "descripcion": "Vaga: Gravador(a) de Vídeos em Casa Tipo: Prestador(a) de Serviços Localização: Remoto – América Latina e Caribe Países Elegíveis: Argentina, Bahamas, Barbados, Brasil, Chile, Colômbia, Costa Rica, República Dominicana, Jamaica, México, Panamá e Uruguai.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Founding Account Executive – Elvoro Ltd",
+   "empresa": "Elvoro",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T17:54:59+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd?utm_source=api",
+   "descripcion": "Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Associate Director, Music Policy, Spotify for Artists",
+   "empresa": "Spotify",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T17:40:00+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/spotify/jobs/associate-director-music-policy-spotify-for-artists?utm_source=api",
+   "descripcion": "We’re looking for a leader to manage Spotify’s Music Policy team, driving our strategy and execution for many of the most important issues facing the music industry for the next decade.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Kinyarwanda Language Specialist - AI Trainer",
+   "empresa": "Invisible Technologies",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T17:09:27+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer?utm_source=api",
+   "descripcion": "Are you a Kinyarwanda language expert eager to shape the future of AI?",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Azure Solutions Architect",
+   "empresa": "Nimble Gravity",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-21T16:45:58+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nimble-gravity/jobs/azure-solutions-architect?utm_source=api",
+   "descripcion": "We’re a data, AI and digital engineering consultancy.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Senior Data Scientist, Research",
    "empresa": "Alpaca",
@@ -471,18 +639,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Kinyarwanda Language Specialist - AI Trainer",
-   "empresa": "Invisible Technologies",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T22:07:38+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer?utm_source=api",
-   "descripcion": "Are you a Kinyarwanda language expert eager to shape the future of AI?",
-   "rubro": "Tecnología",
-   "primer_empleo": true
-  },
-  {
    "titulo": "Senior AI Automation Engineer",
    "empresa": "Helpware",
    "localidad": "Remoto",
@@ -519,102 +675,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Learning Operations Specialist",
-   "empresa": "HireBoost",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T19:01:33+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hireboost/jobs/learning-operations-specialist?utm_source=api",
-   "descripcion": "This is a remote position.  About the company This education technology platform transforms authentic, real-world content from trusted sources into instruction-ready materials tailored for K–12 classrooms.",
-   "rubro": "Atención al cliente",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sourcing Specialist (Private Aviation)",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T17:56:26+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/sourcing-specialist-private-aviation?utm_source=api",
-   "descripcion": "Position Type: Full-Time | Remote Working Hours: U.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Middle Product Designer",
-   "empresa": "Helpware",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T17:02:33+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/helpware/jobs/middle-product-designer?utm_source=api",
-   "descripcion": "About Project This is an early-stage company building an AI platform for the legal industry.",
-   "rubro": "Diseño y marketing",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Principal Java Software Engineer - Ciklum",
-   "empresa": "Helpware",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T16:46:28+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/helpware/jobs/senior-principal-java-software-engineer-ciklum?utm_source=api",
-   "descripcion": "Principal Software Engineer Key Responsibilities: Own architecture across product and platform Define and evolve platform and application architecture, including service boundaries, integration patterns, data modeling, and API standards.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Bookkeeper",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T16:20:56+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/senior-bookkeeper-4562482353?utm_source=api",
-   "descripcion": "Position Type: Full-Time | Remote Working Hours: 9:00 AM–5:00 PM U.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Full-Stack Software Engineer",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T16:20:23+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/full-stack-software-engineer?utm_source=api",
-   "descripcion": "Full-Stack Software Engineer – Remote | U. S.  Hours Position Type: Full-Time, Remote Working Hours: U.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Associate I, TMF Operations",
-   "empresa": "Worldwide Clinical Trials",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T15:17:23+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/associate-i-tmf-operations?utm_source=api",
-   "descripcion": "Join a global Contract Resource Organization (CRO) where innovation meets purpose.",
-   "rubro": "Salud",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Salesforce Data Cloud Developer SSR",
-   "empresa": "Softtek",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T14:59:39+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/softtek/jobs/salesforce-data-cloud-developer-ssr?utm_source=api",
-   "descripcion": "Salesforce Data Cloud Developer SSR Descripción del puesto • + 3 años de experiencia en el ecosistema Salesforce • + 1 año de experiencia trabajando directamente con Data Cloud en implementaciones reales (ingesta, unificación y activación).",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Market Specialist",
    "empresa": "HILLSIDE ASSETS LIMITED",
    "localidad": "Remoto",
@@ -625,42 +685,6 @@
    "descripcion": "HILLSIDE ASSETS LIMITED is an international company focused on digital assets, financial markets, market research, and data-driven trading solutions.",
    "rubro": "Tecnología",
    "primer_empleo": true
-  },
-  {
-   "titulo": "Spanish Language Expert (LATAM) – Remote (Worldwide)",
-   "empresa": "RemoteJobsOne",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T14:01:17+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/remotejobsone/jobs/spanish-language-expert-latam-remote-worldwide?utm_source=api",
-   "descripcion": "IMPORTANT: after you apply, please check your email.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Solutions Engineer - API & CRM Integrations",
-   "empresa": "Resourceful Talent Group",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T13:41:17+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/resourceful-talent-group/jobs/solutions-engineer-api-crm-integrations?utm_source=api",
-   "descripcion": "We are looking for an experienced Solutions Engineer to own and optimize API and CRM integrations for our client, a growing US-based marketing technology company helping over 300 home improvement businesses drive customer engagement and revenue through marketing automation.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Growth & Marketing Intern",
-   "empresa": "Empresa en Get on Board",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T10:54:24+00:00",
-   "fuente": "Get on Board",
-   "url": "https://www.getonbrd.com/jobs/growth-marketing-intern-ctrl-money-remote",
-   "rubro": "Tecnología",
-   "descripcion": "Are a native Spanish speaker in Argentina or a native Portuguese speaker in Brazil, and are comfortable working in English  Are a student or recent grad (any field) and very online  Are curious about investing, fintech or crypto (you don’t need to be an expert) Have grown something before: a page,",
-   "primer_empleo": false
   }
  ]
 }
