@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T16:33:16.637147+00:00",
+ "actualizado": "2026-11-22T22:32:01.054659+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,71 @@
  },
  "resumen": {
   "encontradas": 80,
-  "vencidas_quitadas": 22,
+  "vencidas_quitadas": 23,
   "duplicadas_quitadas": 0,
-  "publicadas": 58
+  "publicadas": 57
  },
  "ofertas": [
+  {
+   "titulo": "Junior Full Stack Engineer (LATAM)",
+   "empresa": "LoanBud",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T21:54:29+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/loanbud/jobs/junior-full-stack-engineer-latam?utm_source=api",
+   "descripcion": "Junior Full Stack Engineer (Independent Contractor) Location | Latin America — Remote Engagement Type | Independent contractor (services agreement) Availability | General overlap with U.",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Senior Clinical Data Manager",
+   "empresa": "Precision Medicine Group",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T16:52:41+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/precision-medicine-group/jobs/senior-clinical-data-manager-1622125257?utm_source=api",
+   "descripcion": "We’re expanding across Mexico, Brazil, Argentina, Colombia, Chile, and Peru, and we’re looking for an experienced Clinical Data Manager to help build the foundation of our growing LATAM Data Management team, ensuring the delivery of high-quality clinical data that drives successful clinical trials a",
+   "rubro": "Salud",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Digital Marketing Account Manager - Local SEO & Client Success",
+   "empresa": "Pavago",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T16:50:34+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/pavago/jobs/digital-marketing-account-manager-local-seo-client-success-6219517985?utm_source=api",
+   "descripcion": "Digital Marketing Account Manager – Local SEO & Client Success | Remote Position Type: Full-Time, Remote Working Hours: U.",
+   "rubro": "Administración",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Operations Director | Fully remote | LATAM",
+   "empresa": "Prometeo Talent",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T16:25:13+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/prometeo-talent/jobs/operations-director-fully-remote-latam?utm_source=api",
+   "descripcion": "About Us At Prometeo Talent, our mission is to connect exceptional talent with innovative industry leaders.",
+   "rubro": "Atención al cliente",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Sr. Short-form Video Editor - AI Workflows (Remote, LATAM)",
+   "empresa": "Rankings.io",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T16:24:10+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-short-form-video-editor-ai-workflows-remote-latam?utm_source=api",
+   "descripcion": "Description This is a remote independent contractor opportunity working closely with our US-based team.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Recruiting Assistant – Remote (Latin America)",
    "empresa": "High Light Electric Inc",
@@ -72,18 +132,6 @@
    "url": "https://himalayas.app/companies/software-mind/jobs/8ci-tech-lead-ai-prototyping-python-full-stack?utm_source=api",
    "descripcion": "Python is the primary language for this hands-on Tech Lead role.",
    "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Clinical Data Manager",
-   "empresa": "Precision Medicine Group",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-22T08:53:39+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/precision-medicine-group/jobs/senior-clinical-data-manager-1622125257?utm_source=api",
-   "descripcion": "We’re expanding across Mexico, Brazil, Argentina, Colombia, Chile, and Peru, and we’re looking for an experienced Clinical Data Manager to help build the foundation of our growing LATAM Data Management team, ensuring the delivery of high-quality clinical data that drives successful clinical trials a",
-   "rubro": "Salud",
    "primer_empleo": false
   },
   {
@@ -615,18 +663,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Digital Marketing Account Manager - Local SEO & Client Success",
-   "empresa": "Pavago",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T23:43:43+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/pavago/jobs/digital-marketing-account-manager-local-seo-client-success-6219517985?utm_source=api",
-   "descripcion": "Digital Marketing Account Manager – Local SEO & Client Success | Remote Position Type: Full-Time, Remote Working Hours: U.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
    "titulo": "Senior Technical Consultant",
    "empresa": "Salesforce",
    "localidad": "Remoto",
@@ -635,54 +671,6 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/salesforce/jobs/senior-technical-consultant-231174958?utm_source=api",
    "descripcion": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Sr. Long-form Video Editor - AI Workflows (Remote, LATAM)",
-   "empresa": "Rankings.io",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T23:05:18+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-long-form-video-editor-ai-workflows-remote-latam?utm_source=api",
-   "descripcion": "Description This is a remote independent contractor opportunity working closely with our US-based team.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Director, Equity Capital Markets",
-   "empresa": "Alpaca",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T22:59:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/alpaca/jobs/director-equity-capital-markets?utm_source=api",
-   "descripcion": "Who We Are: Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Account Executive - LATAM",
-   "empresa": "Thetaray",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T22:58:17+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/thetaray/jobs/account-executive-latam?utm_source=api",
-   "descripcion": "Description At ThetaRay, our purpose is to make the world a safer place by protecting the integrity of the global financial system.",
-   "rubro": "Administración",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Security Engineer",
-   "empresa": "SecurityScorecard",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T22:53:33+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/securityscorecard/jobs/senior-security-engineer?utm_source=api",
-   "descripcion": "About SecurityScorecard: SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries.",
    "rubro": "Tecnología",
    "primer_empleo": false
   },
