@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T09:37:27.343595+00:00",
+ "actualizado": "2026-11-22T16:33:16.637147+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -14,6 +14,66 @@
   "publicadas": 58
  },
  "ofertas": [
+  {
+   "titulo": "Recruiting Assistant – Remote (Latin America)",
+   "empresa": "High Light Electric Inc",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T12:57:27+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/high-light-electric-inc/jobs/recruiting-assistant-remote-latin-america?utm_source=api",
+   "descripcion": "Recruiting Assistant – Remote (Latin America) Independent Contractor | Part-Time | USD $700–$900 Monthly Grow Your Career in Talent Acquisition With Us!",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Sales Development Representative (SDR)",
+   "empresa": "Hypergen LLC",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T12:28:20+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/hypergen-llc/jobs/sales-development-representative-sdr-1518315268?utm_source=api",
+   "descripcion": "About Hypergen Hypergen is a lead generation partner for M&A firms, SaaS companies, and agencies.",
+   "rubro": "Comercio y ventas",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "Security Engineer",
+   "empresa": "Trafilea",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T11:40:27+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/trafilea-com/jobs/security-engineer?utm_source=api",
+   "descripcion": "About Trafilea Trafilea is a Consumer Tech Platform for Transformative Brand Growth.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Staff Engineer - IA y Agentes",
+   "empresa": "Domus Global",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T10:05:19+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/domus-global/jobs/staff-engineer-ia-y-agentes?utm_source=api",
+   "descripcion": "Buscamos un/a Staff Engineer para el área de I+D en IA de una fintech global de pagos.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "[8CI] Tech Lead - AI Prototyping (Python, Full stack)",
+   "empresa": "Software Mind",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-22T09:55:24+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/software-mind/jobs/8ci-tech-lead-ai-prototyping-python-full-stack?utm_source=api",
+   "descripcion": "Python is the primary language for this hands-on Tech Lead role.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Senior Clinical Data Manager",
    "empresa": "Precision Medicine Group",
@@ -411,18 +471,6 @@
    "primer_empleo": false
   },
   {
-   "titulo": "Sales Development Associate",
-   "empresa": "Clera",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-22T01:22:44+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/clera/jobs/sales-development-associate-2441852164?utm_source=api",
-   "descripcion": "About the Role Join an early-stage sales team at a data and infrastructure company, partnering with the sales director to turn technical interest into qualified business opportunities.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": true
-  },
-  {
    "titulo": "Venture Studio Associate",
    "empresa": "Partyhat",
    "localidad": "Remoto",
@@ -635,54 +683,6 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/securityscorecard/jobs/senior-security-engineer?utm_source=api",
    "descripcion": "About SecurityScorecard: SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, operating in 64 countries.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Analytics Specialist",
-   "empresa": "Qventus",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T22:19:35+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/qventus/jobs/senior-analytics-specialist?utm_source=api",
-   "descripcion": "On this journey for over 12 years, Qventus is leading the transformation of healthcare.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Product Engineer (Node)",
-   "empresa": "ActiveProspect",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T21:58:38+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/activeprospect/jobs/senior-product-engineer-node-7083396713?utm_source=api",
-   "descripcion": "Senior Product Engineer, LeadConduit Company Overview ActiveProspect is on a mission to make consent-based marketing the best channel for online customer acquisition.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Account Executive – B2B SaaS (US Market)",
-   "empresa": "VAme Ltd",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T21:51:04+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/vame-ltd/jobs/senior-account-executive-b2b-saas-us-market?utm_source=api",
-   "descripcion": "We are looking for an experienced Senior Account Executive who knows how to turn qualified sales opportunities into paying customers.",
-   "rubro": "Comercio y ventas",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Business Analyst – Fixed Income / Interest Rate Swaps",
-   "empresa": "Talan",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-21T21:27:51+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/talan/jobs/senior-business-analyst-fixed-income-interest-rate-swaps-134506563?utm_source=api",
-   "descripcion": "About the Role We are looking for an experienced Senior Business Analyst to join the team and contribute to a key project within the Fixed Income markets.",
    "rubro": "Tecnología",
    "primer_empleo": false
   },
