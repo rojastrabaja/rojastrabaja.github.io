@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T10:00:10.594276+00:00",
+ "actualizado": "2026-11-23T16:46:06.290596+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -10,10 +10,34 @@
  "resumen": {
   "encontradas": 80,
   "vencidas_quitadas": 27,
-  "duplicadas_quitadas": 1,
-  "publicadas": 52
+  "duplicadas_quitadas": 0,
+  "publicadas": 53
  },
  "ofertas": [
+  {
+   "titulo": "Senior SQL Developer",
+   "empresa": "Prove Partners",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-23T14:27:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/prove-partners/jobs/senior-sql-developer?utm_source=api",
+   "descripcion": "Senior SQL Developer Finance Data & Systems Migration Full-time / RemoteAbout the role We are looking for a Senior SQL Developer to be a part of PROVE Partner's parent company Allira’s team (remote).",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "STEM Expert, Remote- Contract",
+   "empresa": "Xperteez Technology",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-23T10:27:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract-3276095955?utm_source=api",
+   "descripcion": "Job Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves solving, reviewing, and validating challenging problems within your area of expertise.",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Sr Vista/Viewpoint ERP Specialist - Remote (Latam)",
    "empresa": "Skilldlabs",
@@ -575,18 +599,6 @@
    "fuente": "Himalayas",
    "url": "https://himalayas.app/companies/partyhat/jobs/investment-associate-7522422808?utm_source=api",
    "descripcion": "The Mission We aren't looking for a traditional venture capital analyst who sits passively behind a desk waiting for pitch decks to land in an inbox.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Backend Engineer (all genders)",
-   "empresa": "JustPlay GmbH",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-22T01:55:30+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/justplay-gmbh/jobs/backend-engineer-all-genders?utm_source=api",
-   "descripcion": "JustPlay is looking for a Backend Engineer to join our Engineering team and help build, improve, and scale the services that keep our platform secure.",
    "rubro": "Tecnología",
    "primer_empleo": false
   },
