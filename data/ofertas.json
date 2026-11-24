@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T16:53:52.949353+00:00",
+ "actualizado": "2026-11-24T22:44:21.589862+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
@@ -9,11 +9,59 @@
  },
  "resumen": {
   "encontradas": 80,
-  "vencidas_quitadas": 28,
+  "vencidas_quitadas": 26,
   "duplicadas_quitadas": 0,
-  "publicadas": 52
+  "publicadas": 54
  },
  "ofertas": [
+  {
+   "titulo": "DevOps Engineer",
+   "empresa": "Nearshore Business Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T21:48:39+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/devops-engineer?utm_source=api",
+   "descripcion": "Job Title: DevOps Engineer Location: Remote – Latin America Type of Contract: Full-Time | 1-Year Contract (Possibility of Extension or Permanent Hire) Salary Range: $2,600–$3,000 USD/month (Market Rates; candidates with exceptional experience may be considered above range) Ideal Start Date: January ",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Junior Procurement Assistant / LATAM",
+   "empresa": "VELAIO",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T21:11:19+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/velaio/jobs/junior-procurement-assistant-latam?utm_source=api",
+   "descripcion": "This is a remote position.  This is a remote position.",
+   "rubro": "Tecnología",
+   "primer_empleo": true
+  },
+  {
+   "titulo": "HR / Truck Driver Recruitment Manager",
+   "empresa": "Nearshore Business Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T19:08:37+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/hr-truck-driver-recruitment-manager?utm_source=api",
+   "descripcion": "Job title: HR / Truck Driver Recruitment Manager Location: Remote – Latin America Preferred Type of Contract: Independent Contractor Salary Range: USD $1,400–$1,800/month (depending on experience) Language Requirements: English proficiency required Our client is seeking an experienced HR / Truck Dri",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Manager, Paid Social - LATAM",
+   "empresa": "Havenly",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T15:37:04+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/havenly/jobs/manager-paid-social-latam?utm_source=api",
+   "descripcion": "At Havenly Brands, we’re building this generation’s premier destination for all things home.",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
   {
    "titulo": "Marketing Project Manager",
    "empresa": "Nearshore Business Solutions",
@@ -601,30 +649,6 @@
    "descripcion": "The Mission Generic stock vectors and uninspired corporate graphics are completely dead to us.",
    "rubro": "Tecnología",
    "primer_empleo": true
-  },
-  {
-   "titulo": "Demand Generation Specialist",
-   "empresa": "BlackBox Strategies",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-23T02:02:53+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/blackbox-strategies/jobs/demand-generation-specialist-8419956850?utm_source=api",
-   "descripcion": "Demand Generation Specialist Role Overview BlackBox Strategies is seeking a senior, execution-first operator to own outbound and lifecycle messaging across both B2B and B2C audiences.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
-  },
-  {
-   "titulo": "Senior Software Engineer, AI Training",
-   "empresa": "G2i Inc.",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-23T02:02:21+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440?utm_source=api",
-   "descripcion": "Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client.",
-   "rubro": "Tecnología",
-   "primer_empleo": false
   },
   {
    "titulo": "Growth & Marketing Intern",
