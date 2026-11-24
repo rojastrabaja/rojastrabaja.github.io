@@ -1,19 +1,43 @@
 {
- "actualizado": "2026-11-24T09:54:40.155751+00:00",
+ "actualizado": "2026-11-24T16:53:52.949353+00:00",
  "dias": 7,
  "fuentes": {
   "Formulario propio": 0,
   "Jooble": 0,
   "Himalayas": 60,
-  "Get on Board": 21
+  "Get on Board": 20
  },
  "resumen": {
-  "encontradas": 81,
-  "vencidas_quitadas": 30,
+  "encontradas": 80,
+  "vencidas_quitadas": 28,
   "duplicadas_quitadas": 0,
-  "publicadas": 51
+  "publicadas": 52
  },
  "ofertas": [
+  {
+   "titulo": "Marketing Project Manager",
+   "empresa": "Nearshore Business Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T12:07:17+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/marketing-project-manager?utm_source=api",
+   "descripcion": "Job Title: Marketing Project Manager Location: Remote – Latin America Preferred Type of Contract: Full-Time | Remote Salary Range: Market Rates Language Requirements: Advanced English (written and spoken) Our client is seeking a technically skilled Marketing Project Manager with 3–5 years of experie",
+   "rubro": "Diseño y marketing",
+   "primer_empleo": false
+  },
+  {
+   "titulo": "Recruitment & Operations Coordinator",
+   "empresa": "Nearshore Business Solutions",
+   "localidad": "Remoto",
+   "modalidad": "Remoto",
+   "fecha": "2026-11-24T09:27:09+00:00",
+   "fuente": "Himalayas",
+   "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/recruitment-operations-coordinator?utm_source=api",
+   "descripcion": "Job Title: Recruitment & Operations Coordinator Location: Remote – Latin America Preferred Type of Contract: Full-Time | Remote Salary Range: Market Rates Language Requirements: Advanced English – Strong written and verbal communication skills Our client is seeking a proactive and highly organized R",
+   "rubro": "Tecnología",
+   "primer_empleo": false
+  },
   {
    "titulo": "Software Engineer Contractor (6-month contract)",
    "empresa": "Introhive",
@@ -601,18 +625,6 @@
    "descripcion": "Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client.",
    "rubro": "Tecnología",
    "primer_empleo": false
-  },
-  {
-   "titulo": "Market Specialist",
-   "empresa": "HILLSIDE ASSETS LIMITED",
-   "localidad": "Remoto",
-   "modalidad": "Remoto",
-   "fecha": "2026-11-20T14:08:08+00:00",
-   "fuente": "Himalayas",
-   "url": "https://himalayas.app/companies/hillside-assets-limited/jobs/market-specialist?utm_source=api",
-   "descripcion": "HILLSIDE ASSETS LIMITED is an international company focused on digital assets, financial markets, market research, and data-driven trading solutions.",
-   "rubro": "Tecnología",
-   "primer_empleo": true
   },
   {
    "titulo": "Growth & Marketing Intern",
